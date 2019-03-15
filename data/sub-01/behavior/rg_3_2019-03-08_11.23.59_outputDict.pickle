@@ -1,0 +1,4364 @@
+(dp0
+S'parameterArray'
+p1
+(lp2
+(dp3
+S'RG_color'
+p4
+I1
+sS'element_spatial_frequency_offset'
+p5
+F0.125
+sS'orientation'
+p6
+cnumpy.core.multiarray
+scalar
+p7
+(cnumpy
+dtype
+p8
+(S'f8'
+p9
+I0
+I1
+tp10
+Rp11
+(I3
+S'<'
+p12
+NNNI-1
+I-1
+I0
+tp13
+bS'\x00\x00\x00\x00\x00\x00\x00\x00'
+p14
+tp15
+Rp16
+sS'mapper_stim_in_TR'
+p17
+F1.0
+sS'element_spatial_frequency_gain'
+p18
+I8
+sS'bar_width_ratio'
+p19
+F0.125
+sS'minimum_pulse_gap'
+p20
+F2.0
+sS'nr_staircases_ecc'
+p21
+I3
+sS'horizontal_pass_dur'
+p22
+I18
+sS'quest_stepsize'
+p23
+F0.75
+sS'redraws_per_TR'
+p24
+F3.0
+sS'num_elements'
+p25
+I4000
+sS'slow_speed'
+p26
+F8.0
+sS'TR'
+p27
+F1.6
+sS'num_trials'
+p28
+I10
+sS'eyelink_calib_size'
+p29
+F0.5
+sS'vertical_stim_size'
+p30
+I1
+sS'mask_type'
+p31
+I1
+sS'element_size'
+p32
+F45.0
+sS'practice'
+p33
+I0
+sS'horizontal_stim_size'
+p34
+I1
+sS'num_fns_trials'
+p35
+I4
+sS'quest_initial_stim_values'
+p36
+I1
+sS'quest_stepsize_multiplication_on_reversal'
+p37
+F0.95
+sS'task'
+p38
+I1
+sS'BY_comparison_color'
+p39
+F0.5
+sS'vertical_pass_dur'
+p40
+I12
+sS'warming_up_n_TRs'
+p41
+I12
+sS'mapper_task_rate'
+p42
+I4
+sS'fast_speed'
+p43
+F16.0
+sS'y_offset'
+p44
+F0.0
+sS'x_offset'
+p45
+I0
+sS'PRF_ITI_in_TR'
+p46
+F0.5
+sS'BY_color'
+p47
+F0.8849557522123894
+sS'stim_bool'
+p48
+g7
+(g8
+(S'i8'
+p49
+I0
+I1
+tp50
+Rp51
+(I3
+S'<'
+p52
+NNNI-1
+I-1
+I0
+tp53
+bS'\x00\x00\x00\x00\x00\x00\x00\x00'
+p54
+tp55
+Rp56
+sa(dp57
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x18-DT\xfb!\t@'
+p58
+tp59
+Rp60
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p61
+tp62
+Rp63
+sa(dp64
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x18-DT\xfb!\xf9?'
+p65
+tp66
+Rp67
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p68
+tp69
+Rp70
+sa(dp71
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p72
+tp73
+Rp74
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p75
+tp76
+Rp77
+sa(dp78
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\xd2!3\x7f|\xd9\x12@'
+p79
+tp80
+Rp81
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p82
+tp83
+Rp84
+sa(dp85
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p86
+tp87
+Rp88
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p89
+tp90
+Rp91
+sa(dp92
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x18-DT\xfb!\xf9?'
+p93
+tp94
+Rp95
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p96
+tp97
+Rp98
+sa(dp99
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p100
+tp101
+Rp102
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p103
+tp104
+Rp105
+sa(dp106
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\xd2!3\x7f|\xd9\x12@'
+p107
+tp108
+Rp109
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p110
+tp111
+Rp112
+sa(dp113
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x18-DT\xfb!\t@'
+p114
+tp115
+Rp116
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x01\x00\x00\x00\x00\x00\x00\x00'
+p117
+tp118
+Rp119
+sa(dp120
+g4
+I1
+sg5
+F0.125
+sg6
+g7
+(g11
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p121
+tp122
+Rp123
+sg17
+F1.0
+sg18
+I8
+sg19
+F0.125
+sg20
+F2.0
+sg21
+I3
+sg22
+I18
+sg23
+F0.75
+sg24
+F3.0
+sg25
+I4000
+sg26
+F8.0
+sg27
+F1.6
+sg28
+I10
+sg29
+F0.5
+sg30
+I1
+sg31
+I1
+sg32
+F45.0
+sg33
+I0
+sg34
+I1
+sg35
+I4
+sg36
+I1
+sg37
+F0.95
+sg38
+I1
+sg39
+F0.5
+sg40
+I12
+sg41
+I12
+sg42
+I4
+sg43
+F16.0
+sg44
+F0.0
+sg45
+I0
+sg46
+F0.5
+sg47
+F0.8849557522123894
+sg48
+g7
+(g51
+S'\x00\x00\x00\x00\x00\x00\x00\x00'
+p124
+tp125
+Rp126
+sasS'eventArray'
+p127
+(lp128
+(lp129
+S'trial 0 started at 1.2517080307'
+p130
+a(lp131
+I99
+aF27.856761932373047
+aaS'trial 0 phase 1 started at 29.108476162'
+p132
+aS'trial 0 key: t at time: 29.1084880829'
+p133
+aS'trial 0 event t at 29.108494997'
+p134
+a(lp135
+I99
+aF29.441756010055542
+aaS'trial 0 phase 2 started at 30.693472147'
+p136
+aS'trial 0 key: t at time: 30.6934890747'
+p137
+aS'trial 0 event t at 30.693500042'
+p138
+aS'stimulus draw for phase 0.000000, at 30.708862'
+p139
+aS'signal in feature: bar ecc bin: 2 phase: 0.029 value: 19.000000 (RG_ratio) 1.000000 at 31.232096 '
+p140
+aS'signal in feature: fix ecc bin: 2 phase: 0.029 value: 1.000000/0.462117 at 31.232145 '
+p141
+aS'stimulus draw for phase 0.028504, at 31.245567'
+p142
+aS'stimulus draw for phase 0.056574, at 31.774825'
+p143
+a(lp144
+I99
+aF31.041270971298218
+aaS'trial 0 key: t at time: 32.2929849625'
+p145
+aS'trial 0 event t at 32.292994976'
+p146
+aS'stimulus draw for phase 0.084642, at 32.308370'
+p147
+aS'signal in feature: bar ecc bin: 2 phase: 0.113 value: 19.000000 (RG_ratio) 0.000000 at 32.832074 '
+p148
+aS'signal in feature: fix ecc bin: 2 phase: 0.113 value: 1.000000/0.462117 at 32.832125 '
+p149
+aS'stimulus draw for phase 0.112715, at 32.844823'
+p150
+aS'stimulus draw for phase 0.140782, at 33.374673'
+p151
+a(lp152
+I99
+aF32.64146399497986
+aaS'trial 0 key: t at time: 33.8931779861'
+p153
+aS'trial 0 event t at 33.8931879997'
+p154
+aS'stimulus draw for phase 0.168855, at 33.908491'
+p155
+aS'signal in feature: bar ecc bin: 1 phase: 0.197 value: 34.000000 (RG_ratio) 0.000000 at 34.432103 '
+p156
+aS'signal in feature: fix ecc bin: 1 phase: 0.197 value: 1.000000/0.462117 at 34.432153 '
+p157
+aS'stimulus draw for phase 0.196927, at 34.444827'
+p158
+aS'stimulus draw for phase 0.224994, at 34.974654'
+p159
+a(lp160
+I99
+aF34.24144101142883
+aaS'trial 0 key: t at time: 35.4931550026'
+p161
+aS'trial 0 event t at 35.4931650162'
+p162
+aS'stimulus draw for phase 0.252632, at 35.503043'
+p163
+aS'signal in feature: bar ecc bin: 1 phase: 0.281 value: 34.000000 (RG_ratio) 1.000000 at 36.032083 '
+p164
+aS'signal in feature: fix ecc bin: 1 phase: 0.281 value: 1.000000/0.462117 at 36.032130 '
+p165
+aS'stimulus draw for phase 0.281136, at 36.042167'
+p166
+aS'stimulus draw for phase 0.309205, at 36.574641'
+p167
+a(lp168
+I99
+aF35.84136605262756
+aaS'trial 0 key: t at time: 37.0930790901'
+p169
+aS'trial 0 event t at 37.0930900574'
+p170
+aS'stimulus draw for phase 0.337277, at 37.108555'
+p171
+aS'signal in feature: bar ecc bin: 0 phase: 0.365 value: 19.375000 (RG_ratio) 1.000000 at 37.632033 '
+p172
+aS'signal in feature: fix ecc bin: 0 phase: 0.365 value: 1.000000/0.462117 at 37.632082 '
+p173
+aS'stimulus draw for phase 0.365344, at 37.643632'
+p174
+aS'stimulus draw for phase 0.393418, at 38.174722'
+p175
+a(lp176
+I99
+aF37.44133710861206
+aaS'trial 0 key: t at time: 38.6930510998'
+p177
+aS'trial 0 event t at 38.6930611134'
+p178
+aS'stimulus draw for phase 0.421491, at 38.708495'
+p179
+aS'signal in feature: bar ecc bin: 0 phase: 0.450 value: 19.375000 (RG_ratio) 0.000000 at 39.232127 '
+p180
+aS'signal in feature: fix ecc bin: 0 phase: 0.450 value: 1.000000/0.462117 at 39.232177 '
+p181
+aS'stimulus draw for phase 0.449561, at 39.244884'
+p182
+aS'stimulus draw for phase 0.477629, at 39.774780'
+p183
+a(lp184
+I99
+aF39.04134702682495
+aaS'trial 0 key: t at time: 40.293061018'
+p185
+aS'trial 0 event t at 40.2930710316'
+p186
+aS'stimulus draw for phase 0.505694, at 40.308410'
+p187
+aS'signal in feature: bar ecc bin: 0 phase: 0.534 value: 19.375000 (RG_ratio) 1.000000 at 40.832091 '
+p188
+aS'signal in feature: fix ecc bin: 0 phase: 0.534 value: 1.000000/0.462117 at 40.832141 '
+p189
+aS'stimulus draw for phase 0.533768, at 40.843993'
+p190
+aS'stimulus draw for phase 0.561838, at 41.376015'
+p191
+a(lp192
+I99
+aF40.64143204689026
+aaS'trial 0 key: t at time: 41.8931460381'
+p193
+aS'trial 0 event t at 41.8931560516'
+p194
+aS'stimulus draw for phase 0.589911, at 41.908394'
+p195
+aS'signal in feature: bar ecc bin: 0 phase: 0.618 value: 19.375000 (RG_ratio) 1.000000 at 42.432156 '
+p196
+aS'signal in feature: fix ecc bin: 0 phase: 0.618 value: 1.000000/0.462117 at 42.432205 '
+p197
+aS'stimulus draw for phase 0.617982, at 42.441778'
+p198
+aS'stimulus draw for phase 0.646048, at 42.975167'
+p199
+a(lp200
+I99
+aF42.24136710166931
+aaS'trial 0 key: t at time: 43.4930810928'
+p201
+aS'trial 0 event t at 43.4930920601'
+p202
+aS'stimulus draw for phase 0.674117, at 43.508345'
+p203
+aS'signal in feature: bar ecc bin: 1 phase: 0.702 value: 34.000000 (RG_ratio) 1.000000 at 44.032158 '
+p204
+aS'signal in feature: fix ecc bin: 1 phase: 0.702 value: 1.000000/0.462117 at 44.032206 '
+p205
+aS'stimulus draw for phase 0.702192, at 44.041830'
+p206
+aS'stimulus draw for phase 0.730255, at 44.575040'
+p207
+a(lp208
+I99
+aF43.84130501747131
+aaS'trial 0 key: t at time: 45.0930190086'
+p209
+aS'trial 0 event t at 45.0930299759'
+p210
+aS'stimulus draw for phase 0.758329, at 45.108519'
+p211
+aS'signal in feature: bar ecc bin: 1 phase: 0.786 value: 34.000000 (RG_ratio) 0.000000 at 45.623850 '
+p212
+aS'signal in feature: fix ecc bin: 1 phase: 0.786 value: 1.000000/0.462117 at 45.623901 '
+p213
+aS'stimulus draw for phase 0.785966, at 45.633556'
+p214
+aS'stimulus draw for phase 0.814467, at 46.175536'
+p215
+a(lp216
+I99
+aF45.44138503074646
+aaS'trial 0 key: t at time: 46.6930990219'
+p217
+aS'trial 0 event t at 46.6931090355'
+p218
+aS'stimulus draw for phase 0.842540, at 46.708483'
+p219
+aS'signal in feature: bar ecc bin: 2 phase: 0.871 value: 19.000000 (RG_ratio) 0.000000 at 47.232128 '
+p220
+aS'signal in feature: fix ecc bin: 2 phase: 0.871 value: 1.000000/0.462117 at 47.232178 '
+p221
+aS'stimulus draw for phase 0.870613, at 47.241793'
+p222
+aS'stimulus draw for phase 0.898676, at 47.775015'
+p223
+a(lp224
+I99
+aF47.041489124298096
+aaS'trial 0 key: t at time: 48.2932021618'
+p225
+aS'trial 0 event t at 48.293211937'
+p226
+aS'stimulus draw for phase 0.926751, at 48.308486'
+p227
+aS'signal in feature: bar ecc bin: 2 phase: 0.955 value: 19.000000 (RG_ratio) 1.000000 at 48.831965 '
+p228
+aS'signal in feature: fix ecc bin: 2 phase: 0.955 value: 1.000000/0.462117 at 48.832013 '
+p229
+aS'stimulus draw for phase 0.954815, at 48.841629'
+p230
+aS'stimulus draw for phase 0.982893, at 49.374724'
+p231
+aS'trial 0 phase 3 started at 49.6983070374'
+p232
+a(lp233
+I99
+aF48.64137601852417
+aaS'trial 0 key: t at time: 49.893089056'
+p234
+aS'trial 0 event t at 49.8931000233'
+p235
+aa(lp236
+S'trial 1 started at 50.5369420052'
+p237
+aS'trial 1 phase 1 started at 50.5369520187'
+p238
+a(lp239
+I99
+aF0.9561700820922852
+aaS'trial 1 phase 2 started at 51.493117094'
+p240
+aS'trial 1 key: t at time: 51.4931280613'
+p241
+aS'trial 1 event t at 51.4931359291'
+p242
+aS'stimulus draw for phase 0.000000, at 51.502825'
+p243
+aS'signal in feature: bar ecc bin: 2 phase: 0.028 value: 19.000000 (RG_ratio) 1.000000 at 52.032119 '
+p244
+aS'signal in feature: fix ecc bin: 2 phase: 0.028 value: 1.000000/0.462117 at 52.032174 '
+p245
+aS'stimulus draw for phase 0.028212, at 52.041988'
+p246
+aS'stimulus draw for phase 0.055558, at 52.566564'
+p247
+a(lp248
+I99
+aF2.561627149581909
+aaS'trial 1 key: t at time: 53.0985751152'
+p249
+aS'trial 1 event t at 53.0985851288'
+p250
+aS'stimulus draw for phase 0.083765, at 53.108418'
+p251
+aS'signal in feature: bar ecc bin: 2 phase: 0.111 value: 19.000000 (RG_ratio) 0.000000 at 53.623807 '
+p252
+aS'signal in feature: fix ecc bin: 2 phase: 0.111 value: 1.000000/0.462117 at 53.623865 '
+p253
+aS'stimulus draw for phase 0.111113, at 53.633465'
+p254
+aS'stimulus draw for phase 0.139325, at 54.175230'
+p255
+aS'staircase bar bin 2 updated after response 0.0 at 54.459901'
+p256
+aS'trial 1 key: y at time: 54.4599421024'
+p257
+aS'trial 1 event y at 54.459954977'
+p258
+a(lp259
+I99
+aF4.156186103820801
+aaS'trial 1 key: t at time: 54.6931340694'
+p260
+aS'trial 1 event t at 54.693144083'
+p261
+aS'stimulus draw for phase 0.166668, at 54.702960'
+p262
+aS'signal in feature: bar ecc bin: 1 phase: 0.195 value: 34.000000 (RG_ratio) 1.000000 at 55.232103 '
+p263
+aS'signal in feature: fix ecc bin: 1 phase: 0.195 value: 1.000000/0.462117 at 55.232157 '
+p264
+aS'stimulus draw for phase 0.194878, at 55.244744'
+p265
+aS'trial 1 key: g at time: 55.6764881611'
+p266
+aS'trial 1 event g at 55.6764991283'
+p267
+aS'stimulus draw for phase 0.223528, at 55.792814'
+p268
+a(lp269
+I99
+aF5.764591932296753
+aaS'trial 1 key: t at time: 56.3015401363'
+p270
+aS'trial 1 event t at 56.3015511036'
+p271
+aS'stimulus draw for phase 0.250438, at 56.311580'
+p272
+aS'signal in feature: bar ecc bin: 1 phase: 0.279 value: 34.000000 (RG_ratio) 0.000000 at 56.840455 '
+p273
+aS'signal in feature: fix ecc bin: 1 phase: 0.279 value: 1.000000/0.462117 at 56.840512 '
+p274
+aS'stimulus draw for phase 0.278645, at 56.850170'
+p275
+aS'trial 1 key: g at time: 57.3598239422'
+p276
+aS'trial 1 event g at 57.3598351479'
+p277
+aS'stimulus draw for phase 0.307295, at 57.399933'
+p278
+a(lp279
+I99
+aF7.3789989948272705
+aaS'trial 1 key: t at time: 57.9159481525'
+p280
+aS'trial 1 event t at 57.915956974'
+p281
+aS'stimulus draw for phase 0.334640, at 57.925782'
+p282
+aS'signal in feature: bar ecc bin: 0 phase: 0.362 value: 19.375000 (RG_ratio) 1.000000 at 58.432160 '
+p283
+aS'signal in feature: fix ecc bin: 0 phase: 0.362 value: 1.000000/0.462117 at 58.432216 '
+p284
+aS'stimulus draw for phase 0.361548, at 58.444863'
+p285
+aS'trial 1 key: g at time: 58.851514101'
+p286
+aS'trial 1 event g at 58.851526022'
+p287
+aS'stimulus draw for phase 0.388894, at 58.966864'
+p288
+a(lp289
+I99
+aF8.96455693244934
+aaS'trial 1 key: t at time: 59.5015039444'
+p290
+aS'trial 1 event t at 59.5015151501'
+p291
+aS'stimulus draw for phase 0.417104, at 59.511513'
+p292
+aS'signal in feature: bar ecc bin: 0 phase: 0.445 value: 19.375000 (RG_ratio) 1.000000 at 60.040975 '
+p293
+aS'signal in feature: fix ecc bin: 0 phase: 0.445 value: 1.000000/0.462117 at 60.041026 '
+p294
+aS'stimulus draw for phase 0.445328, at 60.050706'
+p295
+aS'stimulus draw for phase 0.472229, at 60.567257'
+p296
+aS'trial 1 key: g at time: 60.7764930725'
+p297
+aS'trial 1 event g at 60.7765040398'
+p298
+a(lp299
+I99
+aF10.578895092010498
+aaS'trial 1 key: t at time: 61.1158430576'
+p300
+aS'trial 1 event t at 61.1158530712'
+p301
+aS'stimulus draw for phase 0.501301, at 61.125666'
+p302
+aS'signal in feature: bar ecc bin: 0 phase: 0.528 value: 19.375000 (RG_ratio) 1.000000 at 61.632144 '
+p303
+aS'signal in feature: fix ecc bin: 0 phase: 0.528 value: 1.000000/0.462117 at 61.632197 '
+p304
+aS'stimulus draw for phase 0.528212, at 61.644814'
+p305
+aS'stimulus draw for phase 0.556426, at 62.183157'
+p306
+aS'trial 1 key: g at time: 62.4931030273'
+p307
+aS'trial 1 event g at 62.4931139946'
+p308
+a(lp309
+I99
+aF12.165338039398193
+aaS'trial 1 key: t at time: 62.702286005'
+p310
+aS'trial 1 event t at 62.7022960186'
+p311
+aS'stimulus draw for phase 0.583771, at 62.713824'
+p312
+aS'signal in feature: bar ecc bin: 0 phase: 0.612 value: 19.375000 (RG_ratio) 0.000000 at 63.232204 '
+p313
+aS'signal in feature: fix ecc bin: 0 phase: 0.612 value: 1.000000/0.462117 at 63.232261 '
+p314
+aS'stimulus draw for phase 0.611549, at 63.245086'
+p315
+aS'stimulus draw for phase 0.639761, at 63.783185'
+p316
+aS'staircase bar bin 0 updated after response 0.0 at 64.226478'
+p317
+aS'trial 1 key: y at time: 64.2265191078'
+p318
+aS'trial 1 event y at 64.2265310287'
+p319
+a(lp320
+I99
+aF13.77887511253357
+aaS'trial 1 key: t at time: 64.3158240318'
+p321
+aS'trial 1 event t at 64.3158340454'
+p322
+aS'stimulus draw for phase 0.667967, at 64.325708'
+p323
+aS'signal in feature: bar ecc bin: 1 phase: 0.695 value: 34.000000 (RG_ratio) 0.000000 at 64.832044 '
+p324
+aS'signal in feature: fix ecc bin: 1 phase: 0.695 value: 1.000000/0.462117 at 64.832100 '
+p325
+aS'stimulus draw for phase 0.694875, at 64.844923'
+p326
+aS'stimulus draw for phase 0.723088, at 65.383129'
+p327
+aS'staircase bar bin 1 updated after response 0.0 at 65.868091'
+p328
+aS'trial 1 key: y at time: 65.8681330681'
+p329
+aS'trial 1 event y at 65.868144989'
+p330
+a(lp331
+I99
+aF15.364604949951172
+aaS'trial 1 key: t at time: 65.901553154'
+p332
+aS'trial 1 event t at 65.9015641212'
+p333
+aS'stimulus draw for phase 0.750437, at 65.911822'
+p334
+aS'signal in feature: bar ecc bin: 1 phase: 0.779 value: 34.750000 (RG_ratio) 0.000000 at 66.440474 '
+p335
+aS'signal in feature: fix ecc bin: 1 phase: 0.779 value: 1.000000/0.462117 at 66.440529 '
+p336
+aS'stimulus draw for phase 0.778647, at 66.450204'
+p337
+aS'stimulus draw for phase 0.805560, at 66.967335'
+p338
+aS'staircase bar bin 1 updated after response 0.0 at 67.426528'
+p339
+aS'trial 1 key: y at time: 67.4265711308'
+p340
+aS'trial 1 event y at 67.4265830517'
+p341
+a(lp342
+I99
+aF16.97885513305664
+aaS'trial 1 key: t at time: 67.5158030987'
+p343
+aS'trial 1 event t at 67.5158150196'
+p344
+aS'stimulus draw for phase 0.834633, at 67.525720'
+p345
+aS'signal in feature: bar ecc bin: 2 phase: 0.862 value: 19.750000 (RG_ratio) 0.000000 at 68.032174 '
+p346
+aS'signal in feature: fix ecc bin: 2 phase: 0.862 value: 1.000000/0.462117 at 68.032231 '
+p347
+aS'stimulus draw for phase 0.861548, at 68.041901'
+p348
+aS'stimulus draw for phase 0.889754, at 68.584027'
+p349
+aS'staircase bar bin 2 updated after response 0.0 at 68.993099'
+p350
+aS'trial 1 key: y at time: 68.993142128'
+p351
+aS'trial 1 event y at 68.9931540489'
+p352
+a(lp353
+I99
+aF18.56453800201416
+aaS'trial 1 key: t at time: 69.1014871597'
+p354
+aS'trial 1 event t at 69.1014969349'
+p355
+aS'stimulus draw for phase 0.917102, at 69.112789'
+p356
+aS'signal in feature: bar ecc bin: 2 phase: 0.945 value: 20.500000 (RG_ratio) 1.000000 at 69.632158 '
+p357
+aS'signal in feature: fix ecc bin: 2 phase: 0.945 value: 1.000000/0.462117 at 69.632212 '
+p358
+aS'stimulus draw for phase 0.944881, at 69.641909'
+p359
+aS'stimulus draw for phase 0.973092, at 70.184126'
+p360
+aS'trial 1 key: g at time: 70.6098999977'
+p361
+aS'trial 1 event g at 70.6099121571'
+p362
+aS'trial 1 phase 3 started at 70.7066991329'
+p363
+a(lp364
+I99
+aF20.170647144317627
+aaS'trial 1 key: t at time: 70.7075941563'
+p365
+aS'trial 1 event t at 70.7076020241'
+p366
+aa(lp367
+S'trial 2 started at 71.5504701138'
+p368
+aS'trial 2 phase 1 started at 71.5504820347'
+p369
+a(lp370
+I99
+aF0.7426528930664062
+aaS'trial 2 phase 2 started at 72.2931289673'
+p371
+aS'trial 2 key: t at time: 72.2931389809'
+p372
+aS'trial 2 event t at 72.2931470871'
+p373
+aS'stimulus draw for phase 0.000000, at 72.303400'
+p374
+aS'signal in feature: bar ecc bin: 2 phase: 0.018 value: 20.500000 (RG_ratio) 0.000000 at 72.823794 '
+p375
+aS'signal in feature: fix ecc bin: 2 phase: 0.018 value: 1.000000/0.462117 at 72.823849 '
+p376
+aS'stimulus draw for phase 0.018391, at 72.833486'
+p377
+aS'stimulus draw for phase 0.036782, at 73.366405'
+p378
+a(lp379
+I99
+aF2.348304033279419
+aaS'trial 2 key: t at time: 73.8987810612'
+p380
+aS'trial 2 event t at 73.8987920284'
+p381
+aS'stimulus draw for phase 0.055461, at 73.910091'
+p382
+aS'signal in feature: bar ecc bin: 2 phase: 0.074 value: 20.500000 (RG_ratio) 1.000000 at 74.432062 '
+p383
+aS'signal in feature: fix ecc bin: 2 phase: 0.074 value: 1.000000/0.462117 at 74.432117 '
+p384
+aS'stimulus draw for phase 0.073849, at 74.441765'
+p385
+aS'stimulus draw for phase 0.091954, at 74.966516'
+p386
+aS'trial 2 key: g at time: 75.0263929367'
+p387
+aS'trial 2 event g at 75.0264041424'
+p388
+a(lp389
+I99
+aF3.9427080154418945
+aaS'trial 2 key: t at time: 75.4931840897'
+p390
+aS'trial 2 event t at 75.4931941032'
+p391
+aS'stimulus draw for phase 0.110349, at 75.503182'
+p392
+aS'signal in feature: bar ecc bin: 2 phase: 0.129 value: 20.500000 (RG_ratio) 0.000000 at 76.032217 '
+p393
+aS'signal in feature: fix ecc bin: 2 phase: 0.129 value: 1.000000/0.462117 at 76.032276 '
+p394
+aS'stimulus draw for phase 0.129027, at 76.042029'
+p395
+aS'stimulus draw for phase 0.147413, at 76.576092'
+p396
+aS'staircase bar bin 2 updated after response 0.0 at 76.634903'
+p397
+aS'trial 2 key: y at time: 76.6349451542'
+p398
+aS'trial 2 event y at 76.6349570751'
+p399
+a(lp400
+I99
+aF5.542588949203491
+aaS'trial 2 key: t at time: 77.0930650234'
+p401
+aS'trial 2 event t at 77.0930759907'
+p402
+aS'stimulus draw for phase 0.166384, at 77.126174'
+p403
+aS'signal in feature: bar ecc bin: 1 phase: 0.184 value: 35.500000 (RG_ratio) 0.000000 at 77.632154 '
+p404
+aS'signal in feature: fix ecc bin: 1 phase: 0.184 value: 1.000000/0.462117 at 77.632210 '
+p405
+aS'stimulus draw for phase 0.184197, at 77.642161'
+p406
+aS'stimulus draw for phase 0.202872, at 78.183419'
+p407
+aS'staircase bar bin 1 updated after response 0.0 at 78.473618'
+p408
+aS'trial 2 key: y at time: 78.473662138'
+p409
+aS'trial 2 event y at 78.4736700058'
+p410
+a(lp411
+I99
+aF7.151036024093628
+aaS'trial 2 key: t at time: 78.7015120983'
+p412
+aS'trial 2 event t at 78.7015221119'
+p413
+aS'stimulus draw for phase 0.220981, at 78.711433'
+p414
+aS'signal in feature: bar ecc bin: 1 phase: 0.239 value: 36.250000 (RG_ratio) 0.000000 at 79.223786 '
+p415
+aS'signal in feature: fix ecc bin: 1 phase: 0.239 value: 1.000000/0.462117 at 79.223841 '
+p416
+aS'stimulus draw for phase 0.239081, at 79.233455'
+p417
+aS'stimulus draw for phase 0.257762, at 79.774843'
+p418
+aS'staircase bar bin 1 updated after response 0.0 at 80.109871'
+p419
+aS'trial 2 key: y at time: 80.1099131107'
+p420
+aS'trial 2 event y at 80.1099250317'
+p421
+a(lp422
+I99
+aF8.742655038833618
+aaS'trial 2 key: t at time: 80.2931311131'
+p423
+aS'trial 2 event t at 80.2931420803'
+p424
+aS'stimulus draw for phase 0.275863, at 80.303977'
+p425
+aS'signal in feature: bar ecc bin: 1 phase: 0.295 value: 37.000000 (RG_ratio) 1.000000 at 80.840506 '
+p426
+aS'signal in feature: fix ecc bin: 1 phase: 0.295 value: 1.000000/0.462117 at 80.840561 '
+p427
+aS'stimulus draw for phase 0.294830, at 80.850363'
+p428
+aS'stimulus draw for phase 0.312644, at 81.366791'
+p429
+aS'trial 2 key: g at time: 81.4264800549'
+p430
+aS'trial 2 event g at 81.4264910221'
+p431
+a(lp432
+I99
+aF10.365432024002075
+aaS'trial 2 key: t at time: 81.9159080982'
+p433
+aS'trial 2 event t at 81.9159181118'
+p434
+aS'stimulus draw for phase 0.331898, at 81.926290'
+p435
+aS'signal in feature: bar ecc bin: 0 phase: 0.350 value: 19.937500 (RG_ratio) 1.000000 at 82.432158 '
+p436
+aS'signal in feature: fix ecc bin: 0 phase: 0.350 value: 1.000000/0.462117 at 82.432211 '
+p437
+aS'stimulus draw for phase 0.349715, at 82.441811'
+p438
+aS'stimulus draw for phase 0.368390, at 82.983923'
+p439
+aS'trial 2 key: g at time: 83.2432391644'
+p440
+aS'trial 2 event g at 83.2432510853'
+p441
+a(lp442
+I99
+aF11.951015949249268
+aaS'trial 2 key: t at time: 83.5014910698'
+p443
+aS'trial 2 event t at 83.501502037'
+p444
+aS'stimulus draw for phase 0.386497, at 83.511377'
+p445
+aS'signal in feature: bar ecc bin: 0 phase: 0.405 value: 19.937500 (RG_ratio) 0.000000 at 84.040413 '
+p446
+aS'signal in feature: fix ecc bin: 0 phase: 0.405 value: 1.000000/0.462117 at 84.040470 '
+p447
+aS'stimulus draw for phase 0.405172, at 84.050073'
+p448
+aS'stimulus draw for phase 0.422989, at 84.566413'
+p449
+aS'staircase bar bin 0 updated after response 0.0 at 84.826440'
+p450
+aS'trial 2 key: y at time: 84.8264820576'
+p451
+aS'trial 2 event y at 84.8264939785'
+p452
+a(lp453
+I99
+aF13.565423011779785
+aaS'trial 2 key: t at time: 85.115899086'
+p454
+aS'trial 2 event t at 85.1159100533'
+p455
+aS'stimulus draw for phase 0.442244, at 85.125831'
+p456
+aS'signal in feature: bar ecc bin: 0 phase: 0.460 value: 20.500000 (RG_ratio) 0.000000 at 85.632129 '
+p457
+aS'signal in feature: fix ecc bin: 0 phase: 0.460 value: 1.000000/0.462117 at 85.632185 '
+p458
+aS'stimulus draw for phase 0.460058, at 85.641983'
+p459
+aS'stimulus draw for phase 0.478738, at 86.183309'
+p460
+aS'staircase bar bin 0 updated after response 0.0 at 86.368299'
+p461
+aS'trial 2 key: y at time: 86.3683400154'
+p462
+aS'trial 2 event y at 86.3683531284'
+p463
+a(lp464
+I99
+aF15.150949954986572
+aaS'trial 2 key: t at time: 86.7014250755'
+p465
+aS'trial 2 event t at 86.7014360428'
+p466
+aS'stimulus draw for phase 0.496840, at 86.711586'
+p467
+aS'signal in feature: bar ecc bin: 0 phase: 0.516 value: 21.062500 (RG_ratio) 0.000000 at 87.240530 '
+p468
+aS'signal in feature: fix ecc bin: 0 phase: 0.516 value: 1.000000/0.462117 at 87.240588 '
+p469
+aS'stimulus draw for phase 0.515521, at 87.253320'
+p470
+aS'staircase bar bin 0 updated after response 0.0 at 87.759835'
+p471
+aS'trial 2 key: y at time: 87.7598760128'
+p472
+aS'trial 2 event y at 87.7598879337'
+p473
+aS'stimulus draw for phase 0.533335, at 87.769469'
+p474
+a(lp475
+I99
+aF16.751029014587402
+aaS'trial 2 key: t at time: 88.3015041351'
+p476
+aS'trial 2 event t at 88.3015151024'
+p477
+aS'stimulus draw for phase 0.552015, at 88.311457'
+p478
+aS'signal in feature: bar ecc bin: 0 phase: 0.570 value: 21.625000 (RG_ratio) 0.000000 at 88.823845 '
+p479
+aS'signal in feature: fix ecc bin: 0 phase: 0.570 value: 1.000000/0.462117 at 88.823901 '
+p480
+aS'stimulus draw for phase 0.570118, at 88.833586'
+p481
+aS'stimulus draw for phase 0.588793, at 89.377812'
+p482
+aS'staircase bar bin 0 updated after response 0.0 at 89.415386'
+p483
+aS'trial 2 key: y at time: 89.4154291153'
+p484
+aS'trial 2 event y at 89.4154369831'
+p485
+a(lp486
+I99
+aF18.342663049697876
+aaS'trial 2 key: t at time: 89.8931391239'
+p487
+aS'trial 2 event t at 89.8931500912'
+p488
+aS'stimulus draw for phase 0.606898, at 89.903337'
+p489
+aS'signal in feature: bar ecc bin: 0 phase: 0.626 value: 22.187500 (RG_ratio) 0.000000 at 90.432100 '
+p490
+aS'signal in feature: fix ecc bin: 0 phase: 0.626 value: 1.000000/0.462117 at 90.432156 '
+p491
+aS'stimulus draw for phase 0.625574, at 90.445010'
+p492
+aS'stimulus draw for phase 0.644254, at 90.983552'
+p493
+aS'staircase bar bin 0 updated after response 0.0 at 91.268196'
+p494
+aS'trial 2 key: y at time: 91.2682390213'
+p495
+aS'trial 2 event y at 91.2682509422'
+p496
+a(lp497
+I99
+aF19.95120596885681
+aaS'trial 2 key: t at time: 91.5016839504'
+p498
+aS'trial 2 event t at 91.5016989708'
+p499
+aS'stimulus draw for phase 0.662360, at 91.511410'
+p500
+aS'signal in feature: bar ecc bin: 1 phase: 0.681 value: 37.000000 (RG_ratio) 0.000000 at 92.040406 '
+p501
+aS'signal in feature: fix ecc bin: 1 phase: 0.681 value: 1.000000/0.462117 at 92.040462 '
+p502
+aS'stimulus draw for phase 0.681033, at 92.050178'
+p503
+aS'stimulus draw for phase 0.698851, at 92.567699'
+p504
+aS'staircase bar bin 1 updated after response 0.0 at 92.826541'
+p505
+aS'trial 2 key: y at time: 92.8265810013'
+p506
+aS'trial 2 event y at 92.8265931606'
+p507
+a(lp508
+I99
+aF21.534340858459473
+aaS'trial 2 key: t at time: 93.0848169327'
+p509
+aS'trial 2 event t at 93.0848269463'
+p510
+aS'stimulus draw for phase 0.718104, at 93.125856'
+p511
+aS'signal in feature: bar ecc bin: 1 phase: 0.736 value: 37.750000 (RG_ratio) 1.000000 at 93.632098 '
+p512
+aS'signal in feature: fix ecc bin: 1 phase: 0.736 value: 1.000000/0.462117 at 93.632153 '
+p513
+aS'stimulus draw for phase 0.735919, at 93.644892'
+p514
+aS'stimulus draw for phase 0.754597, at 94.183891'
+p515
+aS'trial 2 key: g at time: 94.2181770802'
+p516
+aS'trial 2 event g at 94.2181890011'
+p517
+a(lp518
+I99
+aF23.151105880737305
+aaS'trial 2 key: t at time: 94.7015841007'
+p519
+aS'trial 2 event t at 94.7016000748'
+p520
+aS'stimulus draw for phase 0.772702, at 94.711493'
+p521
+aS'signal in feature: bar ecc bin: 1 phase: 0.791 value: 37.750000 (RG_ratio) 1.000000 at 95.240471 '
+p522
+aS'signal in feature: fix ecc bin: 1 phase: 0.791 value: 1.000000/0.462117 at 95.240525 '
+p523
+aS'stimulus draw for phase 0.791381, at 95.250226'
+p524
+aS'stimulus draw for phase 0.810060, at 95.792400'
+p525
+aS'trial 2 key: g at time: 95.8766040802'
+p526
+aS'trial 2 event g at 95.8766169548'
+p527
+a(lp528
+I99
+aF24.734349966049194
+aaS'trial 2 key: t at time: 96.2848269939'
+p529
+aS'trial 2 event t at 96.2848370075'
+p530
+aS'stimulus draw for phase 0.828449, at 96.325777'
+p531
+aS'signal in feature: bar ecc bin: 2 phase: 0.846 value: 21.250000 (RG_ratio) 1.000000 at 96.832167 '
+p532
+aS'signal in feature: fix ecc bin: 2 phase: 0.846 value: 1.000000/0.462117 at 96.832221 '
+p533
+aS'stimulus draw for phase 0.846267, at 96.841860'
+p534
+aS'stimulus draw for phase 0.864945, at 97.383426'
+p535
+aS'trial 2 key: g at time: 97.8682899475'
+p536
+aS'trial 2 event g at 97.8683049679'
+p537
+a(lp538
+I99
+aF26.351074934005737
+aaS'trial 2 key: t at time: 97.9015510082'
+p539
+aS'trial 2 event t at 97.9015660286'
+p540
+aS'stimulus draw for phase 0.883047, at 97.911321'
+p541
+aS'signal in feature: bar ecc bin: 2 phase: 0.902 value: 21.250000 (RG_ratio) 0.000000 at 98.440497 '
+p542
+aS'signal in feature: fix ecc bin: 2 phase: 0.902 value: 1.000000/0.462117 at 98.440553 '
+p543
+aS'stimulus draw for phase 0.901726, at 98.450183'
+p544
+aS'stimulus draw for phase 0.919543, at 98.966550'
+p545
+aS'staircase bar bin 2 updated after response 0.0 at 99.401474'
+p546
+aS'trial 2 key: y at time: 99.4015159607'
+p547
+aS'trial 2 event y at 99.40152812'
+p548
+a(lp549
+I99
+aF27.934340000152588
+aaS'trial 2 key: t at time: 99.4848160744'
+p550
+aS'trial 2 event t at 99.484826088'
+p551
+aS'stimulus draw for phase 0.938794, at 99.525805'
+p552
+aS'signal in feature: bar ecc bin: 2 phase: 0.957 value: 22.000000 (RG_ratio) 1.000000 at 100.032756 '
+p553
+aS'signal in feature: fix ecc bin: 2 phase: 0.957 value: 1.000000/0.462117 at 100.032808 '
+p554
+aS'stimulus draw for phase 0.956624, at 100.042436'
+p555
+aS'stimulus draw for phase 0.975001, at 100.574945'
+p556
+aS'trial 2 key: g at time: 100.784916162'
+p557
+aS'trial 2 event g at 100.78492713'
+p558
+a(lp559
+I99
+aF29.542603969573975
+aaS'trial 2 key: t at time: 101.093080044'
+p560
+aS'trial 2 event t at 101.093091011'
+p561
+aS'stimulus draw for phase 0.993104, at 101.103153'
+p562
+aS'trial 2 phase 3 started at 101.29004097'
+p563
+aa(lp564
+S'trial 3 started at 102.132944107'
+p565
+aS'trial 3 phase 1 started at 102.132954121'
+p566
+a(lp567
+I99
+aF0.5518209934234619
+aaS'trial 3 phase 2 started at 102.684771061'
+p568
+aS'trial 3 key: t at time: 102.684781075'
+p569
+aS'trial 3 event t at 102.684788942'
+p570
+aS'stimulus draw for phase 0.000000, at 102.694527'
+p571
+aS'signal in feature: bar ecc bin: 2 phase: 0.028 value: 22.000000 (RG_ratio) 1.000000 at 103.215531 '
+p572
+aS'signal in feature: fix ecc bin: 2 phase: 0.028 value: 1.000000/0.462117 at 103.215584 '
+p573
+aS'stimulus draw for phase 0.027783, at 103.225226'
+p574
+aS'stimulus draw for phase 0.055557, at 103.758076'
+p575
+a(lp576
+I99
+aF2.1519529819488525
+aaS'trial 3 key: t at time: 104.284903049'
+p577
+aS'trial 3 event t at 104.284913063'
+p578
+aS'stimulus draw for phase 0.083338, at 104.294577'
+p579
+aS'signal in feature: bar ecc bin: 2 phase: 0.112 value: 22.000000 (RG_ratio) 1.000000 at 104.823891 '
+p580
+aS'signal in feature: fix ecc bin: 2 phase: 0.112 value: 1.000000/0.462117 at 104.823945 '
+p581
+aS'stimulus draw for phase 0.111551, at 104.833546'
+p582
+aS'stimulus draw for phase 0.139326, at 105.366686'
+p583
+aS'trial 3 key: g at time: 105.70991993'
+p584
+aS'trial 3 event g at 105.709932089'
+p585
+a(lp586
+I99
+aF3.751788854598999
+aaS'trial 3 key: t at time: 105.884739161'
+p587
+aS'trial 3 event t at 105.884748936'
+p588
+aS'stimulus draw for phase 0.167973, at 105.917389'
+p589
+aS'signal in feature: bar ecc bin: 1 phase: 0.195 value: 37.750000 (RG_ratio) 1.000000 at 106.423822 '
+p590
+aS'signal in feature: fix ecc bin: 1 phase: 0.195 value: 1.000000/0.462117 at 106.423876 '
+p591
+aS'stimulus draw for phase 0.194882, at 106.435195'
+p592
+aS'trial 3 key: g at time: 106.968148947'
+p593
+aS'trial 3 event g at 106.968161106'
+p594
+aS'stimulus draw for phase 0.223094, at 106.978002'
+p595
+a(lp596
+I99
+aF5.35188102722168
+aaS'trial 3 key: t at time: 107.484831095'
+p597
+aS'trial 3 event t at 107.484841108'
+p598
+aS'stimulus draw for phase 0.250001, at 107.494699'
+p599
+aS'signal in feature: bar ecc bin: 1 phase: 0.278 value: 37.750000 (RG_ratio) 0.000000 at 108.023804 '
+p600
+aS'signal in feature: fix ecc bin: 1 phase: 0.278 value: 1.000000/0.462117 at 108.023862 '
+p601
+aS'stimulus draw for phase 0.278215, at 108.034776'
+p602
+aS'stimulus draw for phase 0.306428, at 108.575452'
+p603
+aS'staircase bar bin 1 updated after response 0.0 at 108.690347'
+p604
+aS'trial 3 key: y at time: 108.69039011'
+p605
+aS'trial 3 event y at 108.690397978'
+p606
+a(lp607
+I99
+aF6.960124969482422
+aaS'trial 3 key: t at time: 109.093075037'
+p608
+aS'trial 3 event t at 109.093085051'
+p609
+aS'stimulus draw for phase 0.333767, at 109.103128'
+p610
+aS'signal in feature: bar ecc bin: 0 phase: 0.362 value: 22.750000 (RG_ratio) 1.000000 at 109.632206 '
+p611
+aS'signal in feature: fix ecc bin: 0 phase: 0.362 value: 1.000000/0.462117 at 109.632261 '
+p612
+aS'stimulus draw for phase 0.361986, at 109.641891'
+p613
+aS'stimulus draw for phase 0.388891, at 110.158137'
+p614
+aS'trial 3 key: g at time: 110.243236065'
+p615
+aS'trial 3 event g at 110.243247986'
+p616
+a(lp617
+I99
+aF8.568685054779053
+aaS'trial 3 key: t at time: 110.70163703'
+p618
+aS'trial 3 event t at 110.701651096'
+p619
+aS'stimulus draw for phase 0.417538, at 110.711355'
+p620
+aS'signal in feature: bar ecc bin: 0 phase: 0.444 value: 22.750000 (RG_ratio) 0.000000 at 111.215526 '
+p621
+aS'signal in feature: fix ecc bin: 0 phase: 0.444 value: 1.000000/0.462117 at 111.215584 '
+p622
+aS'stimulus draw for phase 0.444449, at 111.225244'
+p623
+aS'stimulus draw for phase 0.472658, at 111.766883'
+p624
+aS'staircase bar bin 0 updated after response 0.0 at 111.851474'
+p625
+aS'trial 3 key: y at time: 111.851516008'
+p626
+aS'trial 3 event y at 111.851527929'
+p627
+a(lp628
+I99
+aF10.151906967163086
+aaS'trial 3 key: t at time: 112.284857035'
+p629
+aS'trial 3 event t at 112.284867048'
+p630
+aS'stimulus draw for phase 0.500003, at 112.294794'
+p631
+aS'signal in feature: bar ecc bin: 0 phase: 0.528 value: 23.312500 (RG_ratio) 1.000000 at 112.823820 '
+p632
+aS'signal in feature: fix ecc bin: 0 phase: 0.528 value: 1.000000/0.462117 at 112.823876 '
+p633
+aS'stimulus draw for phase 0.528216, at 112.833576'
+p634
+aS'stimulus draw for phase 0.556430, at 113.374850'
+p635
+aS'trial 3 key: g at time: 113.409888983'
+p636
+aS'trial 3 event g at 113.40989995'
+p637
+a(lp638
+I99
+aF11.760110855102539
+aaS'trial 3 key: t at time: 113.893061161'
+p639
+aS'trial 3 event t at 113.893070936'
+p640
+aS'stimulus draw for phase 0.583767, at 113.903278'
+p641
+aS'signal in feature: bar ecc bin: 0 phase: 0.612 value: 23.312500 (RG_ratio) 0.000000 at 114.432216 '
+p642
+aS'signal in feature: fix ecc bin: 0 phase: 0.612 value: 1.000000/0.462117 at 114.432275 '
+p643
+aS'stimulus draw for phase 0.611985, at 114.441960'
+p644
+aS'stimulus draw for phase 0.638891, at 114.958076'
+p645
+aS'staircase bar bin 0 updated after response 0.0 at 115.243143'
+p646
+aS'trial 3 key: y at time: 115.243185043'
+p647
+aS'trial 3 event y at 115.243196964'
+p648
+a(lp649
+I99
+aF13.36910605430603
+aaS'trial 3 key: t at time: 115.502058029'
+p650
+aS'trial 3 event t at 115.502072096'
+p651
+aS'stimulus draw for phase 0.667533, at 115.512057'
+p652
+aS'signal in feature: bar ecc bin: 1 phase: 0.694 value: 38.500000 (RG_ratio) 0.000000 at 116.015517 '
+p653
+aS'signal in feature: fix ecc bin: 1 phase: 0.694 value: 1.000000/0.462117 at 116.015572 '
+p654
+aS'stimulus draw for phase 0.694448, at 116.027879'
+p655
+aS'stimulus draw for phase 0.722658, at 116.566576'
+p656
+a(lp657
+I99
+aF14.969235897064209
+aaS'trial 3 key: t at time: 117.102187157'
+p658
+aS'trial 3 event t at 117.102196932'
+p659
+aS'stimulus draw for phase 0.750872, at 117.112071'
+p660
+aS'staircase bar bin 1 updated after response 0.0 at 117.543069'
+p661
+aS'trial 3 key: y at time: 117.54311204'
+p662
+aS'trial 3 event y at 117.54312396'
+p663
+aS'signal in feature: bar ecc bin: 1 phase: 0.778 value: 39.250000 (RG_ratio) 1.000000 at 117.623793 '
+p664
+aS'signal in feature: fix ecc bin: 1 phase: 0.778 value: 1.000000/0.462117 at 117.623847 '
+p665
+aS'stimulus draw for phase 0.778214, at 117.633603'
+p666
+aS'stimulus draw for phase 0.806426, at 118.176179'
+p667
+aS'trial 3 key: g at time: 118.409878016'
+p668
+aS'trial 3 event g at 118.409888983'
+p669
+a(lp670
+I99
+aF16.560168981552124
+aaS'trial 3 key: t at time: 118.693119049'
+p671
+aS'trial 3 event t at 118.69313097'
+p672
+aS'stimulus draw for phase 0.833771, at 118.703112'
+p673
+aS'signal in feature: bar ecc bin: 2 phase: 0.862 value: 22.000000 (RG_ratio) 1.000000 at 119.232184 '
+p674
+aS'signal in feature: fix ecc bin: 2 phase: 0.862 value: 1.000000/0.462117 at 119.232238 '
+p675
+aS'stimulus draw for phase 0.861984, at 119.241950'
+p676
+aS'stimulus draw for phase 0.888890, at 119.758613'
+p677
+aS'trial 3 key: g at time: 119.790415049'
+p678
+aS'trial 3 event g at 119.790426016'
+p679
+a(lp680
+I99
+aF18.169180870056152
+aaS'trial 3 key: t at time: 120.302130938'
+p681
+aS'trial 3 event t at 120.302140951'
+p682
+aS'stimulus draw for phase 0.917538, at 120.312053'
+p683
+aS'signal in feature: bar ecc bin: 2 phase: 0.944 value: 22.000000 (RG_ratio) 0.000000 at 120.815552 '
+p684
+aS'signal in feature: fix ecc bin: 2 phase: 0.944 value: 1.000000/0.462117 at 120.815609 '
+p685
+aS'stimulus draw for phase 0.944451, at 120.825272'
+p686
+aS'stimulus draw for phase 0.972658, at 121.366567'
+p687
+aS'staircase bar bin 2 updated after response 0.0 at 121.815377'
+p688
+aS'trial 3 key: y at time: 121.815420151'
+p689
+aS'trial 3 event y at 121.815428019'
+p690
+aS'trial 3 phase 3 started at 121.89004612'
+p691
+a(lp692
+I99
+aF19.76017189025879
+aaS'trial 3 key: t at time: 121.893121958'
+p693
+aS'trial 3 event t at 121.893130064'
+p694
+aa(lp695
+S'trial 4 started at 122.742454052'
+p696
+aS'trial 4 phase 1 started at 122.742463112'
+p697
+a(lp698
+I99
+aF0.7423760890960693
+aaS'trial 4 phase 2 started at 123.484835148'
+p699
+aS'trial 4 key: t at time: 123.484846115'
+p700
+aS'trial 4 event t at 123.484853983'
+p701
+aS'stimulus draw for phase 0.000000, at 123.494729'
+p702
+aS'signal in feature: bar ecc bin: 2 phase: 0.019 value: 22.750000 (RG_ratio) 0.000000 at 124.024060 '
+p703
+aS'signal in feature: fix ecc bin: 2 phase: 0.019 value: 1.000000/0.462117 at 124.024127 '
+p704
+aS'stimulus draw for phase 0.018678, at 124.034924'
+p705
+aS'stimulus draw for phase 0.037067, at 124.566491'
+p706
+a(lp707
+I99
+aF2.342365026473999
+aaS'trial 4 key: t at time: 125.084825039'
+p708
+aS'trial 4 event t at 125.084835052'
+p709
+aS'stimulus draw for phase 0.055173, at 125.094667'
+p710
+aS'signal in feature: bar ecc bin: 2 phase: 0.074 value: 22.750000 (RG_ratio) 0.000000 at 125.632115 '
+p711
+aS'signal in feature: fix ecc bin: 2 phase: 0.074 value: 1.000000/0.462117 at 125.632171 '
+p712
+aS'stimulus draw for phase 0.074136, at 125.641856'
+p713
+aS'stimulus draw for phase 0.092242, at 126.166539'
+p714
+aS'staircase bar bin 2 updated after response 0.0 at 126.334844'
+p715
+aS'trial 4 key: y at time: 126.33488512'
+p716
+aS'trial 4 event y at 126.334897041'
+p717
+a(lp718
+I99
+aF3.9423649311065674
+aaS'trial 4 key: t at time: 126.684824944'
+p719
+aS'trial 4 event t at 126.684836149'
+p720
+aS'stimulus draw for phase 0.110347, at 126.695012'
+p721
+aS'signal in feature: bar ecc bin: 2 phase: 0.129 value: 23.500000 (RG_ratio) 1.000000 at 127.223797 '
+p722
+aS'signal in feature: fix ecc bin: 2 phase: 0.129 value: 1.000000/0.462117 at 127.223852 '
+p723
+aS'stimulus draw for phase 0.129021, at 127.233561'
+p724
+aS'stimulus draw for phase 0.147413, at 127.766920'
+p725
+aS'trial 4 key: g at time: 127.801522017'
+p726
+aS'trial 4 event g at 127.801532984'
+p727
+a(lp728
+I99
+aF5.559648036956787
+aaS'trial 4 key: t at time: 128.302108049'
+p729
+aS'trial 4 event t at 128.302119017'
+p730
+aS'stimulus draw for phase 0.166092, at 128.312099'
+p731
+aS'signal in feature: bar ecc bin: 1 phase: 0.185 value: 39.250000 (RG_ratio) 1.000000 at 128.840423 '
+p732
+aS'signal in feature: fix ecc bin: 1 phase: 0.185 value: 1.000000/0.462117 at 128.840477 '
+p733
+aS'stimulus draw for phase 0.184767, at 128.853449'
+p734
+aS'stimulus draw for phase 0.202583, at 129.366795'
+p735
+aS'trial 4 key: g at time: 129.606938124'
+p736
+aS'trial 4 event g at 129.606949091'
+p737
+a(lp738
+I99
+aF7.142219066619873
+aaS'trial 4 key: t at time: 129.884679079'
+p739
+aS'trial 4 event t at 129.884690046'
+p740
+aS'stimulus draw for phase 0.221840, at 129.925919'
+p741
+aS'signal in feature: bar ecc bin: 1 phase: 0.240 value: 39.250000 (RG_ratio) 1.000000 at 130.432119 '
+p742
+aS'signal in feature: fix ecc bin: 1 phase: 0.240 value: 1.000000/0.462117 at 130.432175 '
+p743
+aS'stimulus draw for phase 0.239653, at 130.444842'
+p744
+aS'trial 4 key: g at time: 130.926416159'
+p745
+aS'trial 4 event g at 130.926427126'
+p746
+aS'stimulus draw for phase 0.257761, at 130.967065'
+p747
+a(lp748
+I99
+aF8.759613037109375
+aaS'trial 4 key: t at time: 131.50207305'
+p749
+aS'trial 4 event t at 131.502084017'
+p750
+aS'stimulus draw for phase 0.276432, at 131.513840'
+p751
+aS'signal in feature: bar ecc bin: 1 phase: 0.295 value: 39.250000 (RG_ratio) 0.000000 at 132.023820 '
+p752
+aS'signal in feature: fix ecc bin: 1 phase: 0.295 value: 1.000000/0.462117 at 132.023874 '
+p753
+aS'stimulus draw for phase 0.294540, at 132.033590'
+p754
+aS'stimulus draw for phase 0.313218, at 132.574857'
+p755
+aS'staircase bar bin 1 updated after response 0.0 at 132.709763'
+p756
+aS'trial 4 key: y at time: 132.709805012'
+p757
+aS'trial 4 event y at 132.709818125'
+p758
+a(lp759
+I99
+aF10.350634098052979
+aaS'trial 4 key: t at time: 133.09309411'
+p760
+aS'trial 4 event t at 133.093105078'
+p761
+aS'stimulus draw for phase 0.331321, at 133.103517'
+p762
+aS'signal in feature: bar ecc bin: 0 phase: 0.350 value: 23.875000 (RG_ratio) 1.000000 at 133.632191 '
+p763
+aS'signal in feature: fix ecc bin: 0 phase: 0.350 value: 1.000000/0.462117 at 133.632245 '
+p764
+aS'stimulus draw for phase 0.350000, at 133.641995'
+p765
+aS'trial 4 key: g at time: 134.176588058'
+p766
+aS'trial 4 event g at 134.176599979'
+p767
+aS'stimulus draw for phase 0.368678, at 134.189390'
+p768
+a(lp769
+I99
+aF11.959605932235718
+aaS'trial 4 key: t at time: 134.70206809'
+p770
+aS'trial 4 event t at 134.702082157'
+p771
+aS'stimulus draw for phase 0.386779, at 134.713797'
+p772
+aS'signal in feature: bar ecc bin: 0 phase: 0.405 value: 23.875000 (RG_ratio) 1.000000 at 135.232152 '
+p773
+aS'signal in feature: fix ecc bin: 0 phase: 0.405 value: 1.000000/0.462117 at 135.232206 '
+p774
+aS'stimulus draw for phase 0.405172, at 135.241944'
+p775
+aS'stimulus draw for phase 0.423849, at 135.783605'
+p776
+aS'trial 4 key: g at time: 136.218199968'
+p777
+aS'trial 4 event g at 136.218212128'
+p778
+a(lp779
+I99
+aF13.55990195274353
+aaS'trial 4 key: t at time: 136.302366972'
+p780
+aS'trial 4 event t at 136.302381039'
+p781
+aS'stimulus draw for phase 0.441956, at 136.312149'
+p782
+aS'signal in feature: bar ecc bin: 0 phase: 0.461 value: 23.875000 (RG_ratio) 0.000000 at 136.840508 '
+p783
+aS'signal in feature: fix ecc bin: 0 phase: 0.461 value: 1.000000/0.462117 at 136.840564 '
+p784
+aS'stimulus draw for phase 0.460632, at 136.850269'
+p785
+aS'stimulus draw for phase 0.478449, at 137.366565'
+p786
+aS'staircase bar bin 0 updated after response 0.0 at 137.507015'
+p787
+aS'trial 4 key: y at time: 137.507058144'
+p788
+aS'trial 4 event y at 137.507066011'
+p789
+a(lp790
+I99
+aF15.14224910736084
+aaS'trial 4 key: t at time: 137.884707928'
+p791
+aS'trial 4 event t at 137.884719133'
+p792
+aS'stimulus draw for phase 0.497700, at 137.925778'
+p793
+aS'signal in feature: bar ecc bin: 0 phase: 0.516 value: 24.437500 (RG_ratio) 0.000000 at 138.432056 '
+p794
+aS'signal in feature: fix ecc bin: 0 phase: 0.516 value: 1.000000/0.462117 at 138.432112 '
+p795
+aS'stimulus draw for phase 0.515514, at 138.441785'
+p796
+aS'stimulus draw for phase 0.533335, at 138.958260'
+p797
+aS'staircase bar bin 0 updated after response 0.0 at 139.018192'
+p798
+aS'trial 4 key: y at time: 139.018238068'
+p799
+aS'trial 4 event y at 139.018249035'
+p800
+a(lp801
+I99
+aF16.759676933288574
+aaS'trial 4 key: t at time: 139.502136946'
+p802
+aS'trial 4 event t at 139.502148151'
+p803
+aS'stimulus draw for phase 0.552295, at 139.512000'
+p804
+aS'signal in feature: bar ecc bin: 0 phase: 0.571 value: 25.000000 (RG_ratio) 0.000000 at 140.041122 '
+p805
+aS'signal in feature: fix ecc bin: 0 phase: 0.571 value: 1.000000/0.462117 at 140.041177 '
+p806
+aS'stimulus draw for phase 0.570991, at 140.050943'
+p807
+aS'stimulus draw for phase 0.588791, at 140.571955'
+p808
+aS'staircase bar bin 0 updated after response 0.0 at 140.607081'
+p809
+aS'trial 4 key: y at time: 140.60712409'
+p810
+aS'trial 4 event y at 140.607131958'
+p811
+a(lp812
+I99
+aF18.350594997406006
+aaS'trial 4 key: t at time: 141.09305501'
+p813
+aS'trial 4 event t at 141.093065977'
+p814
+aS'stimulus draw for phase 0.607182, at 141.103151'
+p815
+aS'signal in feature: bar ecc bin: 0 phase: 0.626 value: 25.562500 (RG_ratio) 1.000000 at 141.632202 '
+p816
+aS'signal in feature: fix ecc bin: 0 phase: 0.626 value: 1.000000/0.462117 at 141.632255 '
+p817
+aS'stimulus draw for phase 0.625863, at 141.644961'
+p818
+aS'stimulus draw for phase 0.643678, at 142.158446'
+p819
+aS'trial 4 key: g at time: 142.19315505'
+p820
+aS'trial 4 event g at 142.193166018'
+p821
+a(lp822
+I99
+aF19.959637880325317
+aaS'trial 4 key: t at time: 142.702099085'
+p823
+aS'trial 4 event t at 142.702110052'
+p824
+aS'stimulus draw for phase 0.662642, at 142.711924'
+p825
+aS'signal in feature: bar ecc bin: 1 phase: 0.681 value: 40.000000 (RG_ratio) 0.000000 at 143.240467 '
+p826
+aS'signal in feature: fix ecc bin: 1 phase: 0.681 value: 1.000000/0.462117 at 143.240521 '
+p827
+aS'stimulus draw for phase 0.681321, at 143.250206'
+p828
+aS'stimulus draw for phase 0.699136, at 143.766735'
+p829
+aS'staircase bar bin 1 updated after response 0.0 at 144.026571'
+p830
+aS'trial 4 key: y at time: 144.026613951'
+p831
+aS'trial 4 event y at 144.02662611'
+p832
+a(lp833
+I99
+aF21.54236388206482
+aaS'trial 4 key: t at time: 144.284824133'
+p834
+aS'trial 4 event t at 144.2848351'
+p835
+aS'stimulus draw for phase 0.717242, at 144.294719'
+p836
+aS'signal in feature: bar ecc bin: 1 phase: 0.736 value: 40.750000 (RG_ratio) 0.000000 at 144.823902 '
+p837
+aS'signal in feature: fix ecc bin: 1 phase: 0.736 value: 1.000000/0.462117 at 144.823955 '
+p838
+aS'stimulus draw for phase 0.735922, at 144.833610'
+p839
+aS'stimulus draw for phase 0.754597, at 145.375473'
+p840
+aS'staircase bar bin 1 updated after response 0.0 at 145.534884'
+p841
+aS'trial 4 key: y at time: 145.53492713'
+p842
+aS'trial 4 event y at 145.534940004'
+p843
+a(lp844
+I99
+aF23.15061593055725
+aaS'trial 4 key: t at time: 145.893077135'
+p845
+aS'trial 4 event t at 145.893087149'
+p846
+aS'stimulus draw for phase 0.772699, at 145.905310'
+p847
+aS'signal in feature: bar ecc bin: 1 phase: 0.791 value: 41.500000 (RG_ratio) 0.000000 at 146.432209 '
+p848
+aS'signal in feature: fix ecc bin: 1 phase: 0.791 value: 1.000000/0.462117 at 146.432263 '
+p849
+aS'stimulus draw for phase 0.791380, at 146.442026'
+p850
+aS'stimulus draw for phase 0.809198, at 146.958395'
+p851
+aS'staircase bar bin 1 updated after response 0.0 at 147.193243'
+p852
+aS'trial 4 key: y at time: 147.193284035'
+p853
+aS'trial 4 event y at 147.193295956'
+p854
+a(lp855
+I99
+aF24.75963306427002
+aaS'trial 4 key: t at time: 147.502093077'
+p856
+aS'trial 4 event t at 147.50210309'
+p857
+aS'stimulus draw for phase 0.828158, at 147.511918'
+p858
+aS'signal in feature: bar ecc bin: 2 phase: 0.846 value: 23.500000 (RG_ratio) 1.000000 at 148.015544 '
+p859
+aS'signal in feature: fix ecc bin: 2 phase: 0.846 value: 1.000000/0.462117 at 148.015597 '
+p860
+aS'stimulus draw for phase 0.845978, at 148.025220'
+p861
+aS'stimulus draw for phase 0.864652, at 148.567778'
+p862
+aS'trial 4 key: g at time: 148.601552963'
+p863
+aS'trial 4 event g at 148.601566076'
+p864
+a(lp865
+I99
+aF26.342307090759277
+aaS'trial 4 key: t at time: 149.084767103'
+p866
+aS'trial 4 event t at 149.084777117'
+p867
+aS'stimulus draw for phase 0.883909, at 149.125785'
+p868
+aS'signal in feature: bar ecc bin: 2 phase: 0.902 value: 23.500000 (RG_ratio) 1.000000 at 149.632187 '
+p869
+aS'signal in feature: fix ecc bin: 2 phase: 0.902 value: 1.000000/0.462117 at 149.632247 '
+p870
+aS'stimulus draw for phase 0.901724, at 149.641873'
+p871
+aS'stimulus draw for phase 0.920401, at 150.184359'
+p872
+aS'trial 4 key: g at time: 150.393083096'
+p873
+aS'trial 4 event g at 150.393095016'
+p874
+a(lp875
+I99
+aF27.959583044052124
+aaS'trial 4 key: t at time: 150.702042103'
+p876
+aS'trial 4 event t at 150.70205307'
+p877
+aS'stimulus draw for phase 0.938503, at 150.711954'
+p878
+aS'signal in feature: bar ecc bin: 2 phase: 0.957 value: 23.500000 (RG_ratio) 1.000000 at 151.232122 '
+p879
+aS'signal in feature: fix ecc bin: 2 phase: 0.957 value: 1.000000/0.462117 at 151.232176 '
+p880
+aS'stimulus draw for phase 0.956895, at 151.241904'
+p881
+aS'stimulus draw for phase 0.975288, at 151.775666'
+p882
+aS'trial 4 key: g at time: 151.868103027'
+p883
+aS'trial 4 event g at 151.868114948'
+p884
+a(lp885
+I99
+aF29.550644874572754
+aaS'trial 4 key: t at time: 152.293105125'
+p886
+aS'trial 4 event t at 152.293115139'
+p887
+aS'stimulus draw for phase 0.993390, at 152.303315'
+p888
+aS'trial 4 phase 3 started at 152.490081072'
+p889
+aa(lp890
+S'trial 5 started at 153.341421127'
+p891
+aS'trial 5 phase 1 started at 153.341431141'
+p892
+a(lp893
+I99
+aF0.5433700084686279
+aaS'trial 5 phase 2 started at 153.884797096'
+p894
+aS'trial 5 key: t at time: 153.88480711'
+p895
+aS'trial 5 event t at 153.884814978'
+p896
+aS'stimulus draw for phase 0.000000, at 153.894992'
+p897
+aS'signal in feature: bar ecc bin: 2 phase: 0.028 value: 23.500000 (RG_ratio) 0.000000 at 154.415491 '
+p898
+aS'signal in feature: fix ecc bin: 2 phase: 0.028 value: 1.000000/0.462117 at 154.415539 '
+p899
+aS'stimulus draw for phase 0.028074, at 154.425223'
+p900
+aS'stimulus draw for phase 0.056142, at 154.958001'
+p901
+a(lp902
+I99
+aF2.1432278156280518
+aaS'trial 5 key: t at time: 155.484655142'
+p903
+aS'trial 5 event t at 155.484665155'
+p904
+aS'stimulus draw for phase 0.084653, at 155.500153'
+p905
+aS'signal in feature: bar ecc bin: 2 phase: 0.113 value: 23.500000 (RG_ratio) 1.000000 at 156.023771 '
+p906
+aS'signal in feature: fix ecc bin: 2 phase: 0.113 value: 1.000000/0.462117 at 156.023819 '
+p907
+aS'stimulus draw for phase 0.112720, at 156.033458'
+p908
+aS'stimulus draw for phase 0.140792, at 156.567357'
+p909
+a(lp910
+I99
+aF3.7434208393096924
+aaS'trial 5 key: t at time: 157.084847927'
+p911
+aS'trial 5 event t at 157.084857941'
+p912
+aS'stimulus draw for phase 0.168421, at 157.094645'
+p913
+aS'signal in feature: bar ecc bin: 1 phase: 0.197 value: 42.250000 (RG_ratio) 1.000000 at 157.623742 '
+p914
+aS'signal in feature: fix ecc bin: 1 phase: 0.197 value: 1.000000/0.462117 at 157.623791 '
+p915
+aS'stimulus draw for phase 0.196929, at 157.636162'
+p916
+aS'stimulus draw for phase 0.224562, at 158.159095'
+p917
+a(lp918
+I99
+aF5.343401908874512
+aaS'trial 5 key: t at time: 158.684828997'
+p919
+aS'trial 5 event t at 158.68483901'
+p920
+aS'stimulus draw for phase 0.252632, at 158.694395'
+p921
+aS'signal in feature: bar ecc bin: 1 phase: 0.281 value: 42.250000 (RG_ratio) 0.000000 at 159.223728 '
+p922
+aS'signal in feature: fix ecc bin: 1 phase: 0.281 value: 1.000000/0.462117 at 159.223776 '
+p923
+aS'stimulus draw for phase 0.281138, at 159.233446'
+p924
+aS'stimulus draw for phase 0.309210, at 159.766566'
+p925
+a(lp926
+I99
+aF6.943317890167236
+aaS'trial 5 key: t at time: 160.284745932'
+p927
+aS'trial 5 event t at 160.284755945'
+p928
+aS'stimulus draw for phase 0.336843, at 160.294589'
+p929
+aS'signal in feature: bar ecc bin: 0 phase: 0.365 value: 25.562500 (RG_ratio) 0.000000 at 160.815472 '
+p930
+aS'signal in feature: fix ecc bin: 0 phase: 0.365 value: 1.000000/0.462117 at 160.815522 '
+p931
+aS'stimulus draw for phase 0.364914, at 160.827811'
+p932
+aS'stimulus draw for phase 0.392984, at 161.358030'
+p933
+a(lp934
+I99
+aF8.543280839920044
+aaS'trial 5 key: t at time: 161.884706974'
+p935
+aS'trial 5 event t at 161.884716988'
+p936
+aS'stimulus draw for phase 0.421491, at 161.900280'
+p937
+aS'signal in feature: bar ecc bin: 0 phase: 0.449 value: 25.562500 (RG_ratio) 1.000000 at 162.415453 '
+p938
+aS'signal in feature: fix ecc bin: 0 phase: 0.449 value: 1.000000/0.462117 at 162.415502 '
+p939
+aS'stimulus draw for phase 0.449124, at 162.425083'
+p940
+aS'stimulus draw for phase 0.477635, at 162.966454'
+p941
+a(lp942
+I99
+aF10.143297910690308
+aaS'trial 5 key: t at time: 163.484724998'
+p943
+aS'trial 5 event t at 163.484735012'
+p944
+aS'stimulus draw for phase 0.505697, at 163.499934'
+p945
+aS'signal in feature: bar ecc bin: 0 phase: 0.534 value: 25.562500 (RG_ratio) 1.000000 at 164.023737 '
+p946
+aS'signal in feature: fix ecc bin: 0 phase: 0.534 value: 1.000000/0.462117 at 164.023785 '
+p947
+aS'stimulus draw for phase 0.533770, at 164.033428'
+p948
+aS'stimulus draw for phase 0.561408, at 164.558115'
+p949
+a(lp950
+I99
+aF11.743310928344727
+aaS'trial 5 key: t at time: 165.084738016'
+p951
+aS'trial 5 event t at 165.08474803'
+p952
+aS'stimulus draw for phase 0.589911, at 165.100009'
+p953
+aS'signal in feature: bar ecc bin: 0 phase: 0.618 value: 25.562500 (RG_ratio) 1.000000 at 165.615494 '
+p954
+aS'signal in feature: fix ecc bin: 0 phase: 0.618 value: 1.000000/0.462117 at 165.615542 '
+p955
+aS'stimulus draw for phase 0.617548, at 165.625145'
+p956
+aS'stimulus draw for phase 0.646047, at 166.167458'
+p957
+a(lp958
+I99
+aF13.34344482421875
+aaS'trial 5 key: t at time: 166.68487215'
+p959
+aS'trial 5 event t at 166.684883118'
+p960
+aS'stimulus draw for phase 0.674124, at 166.701385'
+p961
+aS'signal in feature: bar ecc bin: 1 phase: 0.702 value: 42.250000 (RG_ratio) 0.000000 at 167.223710 '
+p962
+aS'signal in feature: fix ecc bin: 1 phase: 0.702 value: 1.000000/0.462117 at 167.223759 '
+p963
+aS'stimulus draw for phase 0.702190, at 167.233395'
+p964
+aS'stimulus draw for phase 0.730264, at 167.766353'
+p965
+a(lp966
+I99
+aF14.94340181350708
+aaS'trial 5 key: t at time: 168.284830093'
+p967
+aS'trial 5 event t at 168.284839153'
+p968
+aS'stimulus draw for phase 0.757897, at 168.294635'
+p969
+aS'signal in feature: bar ecc bin: 1 phase: 0.786 value: 42.250000 (RG_ratio) 0.000000 at 168.823778 '
+p970
+aS'signal in feature: fix ecc bin: 1 phase: 0.786 value: 1.000000/0.462117 at 168.823827 '
+p971
+aS'stimulus draw for phase 0.786404, at 168.833421'
+p972
+aS'stimulus draw for phase 0.814038, at 169.359126'
+p973
+a(lp974
+I99
+aF16.54328680038452
+aaS'trial 5 key: t at time: 169.884712934'
+p975
+aS'trial 5 event t at 169.884722948'
+p976
+aS'stimulus draw for phase 0.842540, at 169.900045'
+p977
+aS'signal in feature: bar ecc bin: 2 phase: 0.871 value: 23.500000 (RG_ratio) 0.000000 at 170.423811 '
+p978
+aS'signal in feature: fix ecc bin: 2 phase: 0.871 value: 1.000000/0.462117 at 170.423862 '
+p979
+aS'stimulus draw for phase 0.870616, at 170.433403'
+p980
+aS'stimulus draw for phase 0.898683, at 170.966245'
+p981
+a(lp982
+I99
+aF18.143375873565674
+aaS'trial 5 key: t at time: 171.484802961'
+p983
+aS'trial 5 event t at 171.484812975'
+p984
+aS'stimulus draw for phase 0.926319, at 171.495090'
+p985
+aS'signal in feature: bar ecc bin: 2 phase: 0.955 value: 23.500000 (RG_ratio) 0.000000 at 172.023790 '
+p986
+aS'signal in feature: fix ecc bin: 2 phase: 0.955 value: 1.000000/0.462117 at 172.023842 '
+p987
+aS'stimulus draw for phase 0.954826, at 172.033419'
+p988
+aS'stimulus draw for phase 0.982458, at 172.558037'
+p989
+aS'trial 5 phase 3 started at 172.890069008'
+p990
+a(lp991
+I99
+aF19.743386030197144
+aaS'trial 5 key: t at time: 173.084814072'
+p992
+aS'trial 5 event t at 173.084824085'
+p993
+aa(lp994
+S'trial 6 started at 173.742191076'
+p995
+aS'trial 6 phase 1 started at 173.742202997'
+p996
+a(lp997
+I99
+aF0.9424760341644287
+aaS'trial 6 phase 2 started at 174.684673071'
+p998
+aS'trial 6 key: t at time: 174.684683084'
+p999
+aS'trial 6 event t at 174.684690952'
+p1000
+aS'stimulus draw for phase 0.000000, at 174.694421'
+p1001
+aS'signal in feature: bar ecc bin: 2 phase: 0.018 value: 23.500000 (RG_ratio) 0.000000 at 175.215448 '
+p1002
+aS'signal in feature: fix ecc bin: 2 phase: 0.018 value: 1.000000/0.462117 at 175.215504 '
+p1003
+aS'stimulus draw for phase 0.018393, at 175.225157'
+p1004
+aS'stimulus draw for phase 0.036786, at 175.758081'
+p1005
+a(lp1006
+I99
+aF2.5425119400024414
+aaS'trial 6 key: t at time: 176.284708977'
+p1007
+aS'trial 6 event t at 176.284719944'
+p1008
+aS'stimulus draw for phase 0.055174, at 176.294454'
+p1009
+aS'signal in feature: bar ecc bin: 2 phase: 0.074 value: 23.500000 (RG_ratio) 1.000000 at 176.815386 '
+p1010
+aS'signal in feature: fix ecc bin: 2 phase: 0.074 value: 1.000000/0.462117 at 176.815440 '
+p1011
+aS'stimulus draw for phase 0.073563, at 176.825119'
+p1012
+aS'stimulus draw for phase 0.092245, at 177.366556'
+p1013
+aS'trial 6 key: g at time: 177.559957027'
+p1014
+aS'trial 6 event g at 177.559968948'
+p1015
+a(lp1016
+I99
+aF4.150896072387695
+aaS'trial 6 key: t at time: 177.893093109'
+p1017
+aS'trial 6 event t at 177.893104076'
+p1018
+aS'stimulus draw for phase 0.110635, at 177.903300'
+p1019
+aS'signal in feature: bar ecc bin: 2 phase: 0.129 value: 23.500000 (RG_ratio) 0.000000 at 178.432118 '
+p1020
+aS'signal in feature: fix ecc bin: 2 phase: 0.129 value: 1.000000/0.462117 at 178.432175 '
+p1021
+aS'stimulus draw for phase 0.129312, at 178.441853'
+p1022
+aS'stimulus draw for phase 0.147704, at 178.974771'
+p1023
+aS'staircase bar bin 2 updated after response 0.0 at 179.151585'
+p1024
+aS'trial 6 key: y at time: 179.151627064'
+p1025
+aS'trial 6 event y at 179.151638985'
+p1026
+a(lp1027
+I99
+aF5.759553909301758
+aaS'trial 6 key: t at time: 179.501750946'
+p1028
+aS'trial 6 event t at 179.50176096'
+p1029
+aS'stimulus draw for phase 0.166094, at 179.511462'
+p1030
+aS'signal in feature: bar ecc bin: 1 phase: 0.184 value: 42.250000 (RG_ratio) 1.000000 at 180.015472 '
+p1031
+aS'signal in feature: fix ecc bin: 1 phase: 0.184 value: 1.000000/0.462117 at 180.015524 '
+p1032
+aS'stimulus draw for phase 0.183911, at 180.025252'
+p1033
+aS'stimulus draw for phase 0.202588, at 180.566887'
+p1034
+aS'trial 6 key: g at time: 180.598601103'
+p1035
+aS'trial 6 event g at 180.59861207'
+p1036
+a(lp1037
+I99
+aF7.359539985656738
+aaS'trial 6 key: t at time: 181.101737022'
+p1038
+aS'trial 6 event t at 181.101747036'
+p1039
+aS'stimulus draw for phase 0.221265, at 181.111542'
+p1040
+aS'signal in feature: bar ecc bin: 1 phase: 0.239 value: 42.250000 (RG_ratio) 0.000000 at 181.615438 '
+p1041
+aS'signal in feature: fix ecc bin: 1 phase: 0.239 value: 1.000000/0.462117 at 181.615495 '
+p1042
+aS'stimulus draw for phase 0.239082, at 181.627657'
+p1043
+aS'stimulus draw for phase 0.257762, at 182.166764'
+p1044
+a(lp1045
+I99
+aF8.95960807800293
+aaS'trial 6 key: t at time: 182.701805115'
+p1046
+aS'trial 6 event t at 182.701815128'
+p1047
+aS'stimulus draw for phase 0.276439, at 182.711609'
+p1048
+aS'staircase bar bin 1 updated after response 0.0 at 182.993182'
+p1049
+aS'trial 6 key: y at time: 182.993224144'
+p1050
+aS'trial 6 event y at 182.993236065'
+p1051
+aS'signal in feature: bar ecc bin: 1 phase: 0.295 value: 43.000000 (RG_ratio) 0.000000 at 183.223878 '
+p1052
+aS'signal in feature: fix ecc bin: 1 phase: 0.295 value: 1.000000/0.462117 at 183.223932 '
+p1053
+aS'stimulus draw for phase 0.294545, at 183.233643'
+p1054
+aS'stimulus draw for phase 0.313222, at 183.775170'
+p1055
+aS'staircase bar bin 1 updated after response 0.0 at 184.134947'
+p1056
+aS'trial 6 key: y at time: 184.134989023'
+p1057
+aS'trial 6 event y at 184.135000944'
+p1058
+a(lp1059
+I99
+aF10.55088186264038
+aaS'trial 6 key: t at time: 184.293079138'
+p1060
+aS'trial 6 event t at 184.293090105'
+p1061
+aS'stimulus draw for phase 0.331322, at 184.303163'
+p1062
+aS'signal in feature: bar ecc bin: 0 phase: 0.350 value: 25.562500 (RG_ratio) 1.000000 at 184.832058 '
+p1063
+aS'signal in feature: fix ecc bin: 0 phase: 0.350 value: 1.000000/0.462117 at 184.832113 '
+p1064
+aS'stimulus draw for phase 0.350000, at 184.841792'
+p1065
+aS'stimulus draw for phase 0.367822, at 185.358236'
+p1066
+aS'trial 6 key: g at time: 185.76819706'
+p1067
+aS'trial 6 event g at 185.768209934'
+p1068
+a(lp1069
+I99
+aF12.15967607498169
+aaS'trial 6 key: t at time: 185.901873112'
+p1070
+aS'trial 6 event t at 185.901883125'
+p1071
+aS'stimulus draw for phase 0.386788, at 185.913572'
+p1072
+aS'signal in feature: bar ecc bin: 0 phase: 0.405 value: 25.562500 (RG_ratio) 0.000000 at 186.415425 '
+p1073
+aS'signal in feature: fix ecc bin: 0 phase: 0.405 value: 1.000000/0.462117 at 186.415481 '
+p1074
+aS'stimulus draw for phase 0.404599, at 186.428205'
+p1075
+aS'stimulus draw for phase 0.423280, at 186.966937'
+p1076
+a(lp1077
+I99
+aF13.759718894958496
+aaS'trial 6 key: t at time: 187.501915932'
+p1078
+aS'trial 6 event t at 187.501925945'
+p1079
+aS'stimulus draw for phase 0.441957, at 187.511844'
+p1080
+aS'staircase bar bin 0 updated after response 0.0 at 187.568164'
+p1081
+aS'trial 6 key: y at time: 187.568206072'
+p1082
+aS'trial 6 event y at 187.56821394'
+p1083
+aS'signal in feature: bar ecc bin: 0 phase: 0.460 value: 26.125000 (RG_ratio) 0.000000 at 188.023732 '
+p1084
+aS'signal in feature: fix ecc bin: 0 phase: 0.460 value: 1.000000/0.462117 at 188.023788 '
+p1085
+aS'stimulus draw for phase 0.460058, at 188.033448'
+p1086
+aS'stimulus draw for phase 0.478741, at 188.574989'
+p1087
+aS'staircase bar bin 0 updated after response 0.0 at 188.934861'
+p1088
+aS'trial 6 key: y at time: 188.934903145'
+p1089
+aS'trial 6 event y at 188.934915066'
+p1090
+a(lp1091
+I99
+aF15.350836038589478
+aaS'trial 6 key: t at time: 189.093032122'
+p1092
+aS'trial 6 event t at 189.093043089'
+p1093
+aS'stimulus draw for phase 0.496840, at 189.103257'
+p1094
+aS'signal in feature: bar ecc bin: 0 phase: 0.516 value: 26.687500 (RG_ratio) 0.000000 at 189.632189 '
+p1095
+aS'signal in feature: fix ecc bin: 0 phase: 0.516 value: 1.000000/0.462117 at 189.632245 '
+p1096
+aS'stimulus draw for phase 0.515522, at 189.645021'
+p1097
+aS'stimulus draw for phase 0.533335, at 190.158034'
+p1098
+aS'staircase bar bin 0 updated after response 0.0 at 190.568154'
+p1099
+aS'trial 6 key: y at time: 190.568196058'
+p1100
+aS'trial 6 event y at 190.568207979'
+p1101
+a(lp1102
+I99
+aF16.959636926651
+aaS'trial 6 key: t at time: 190.701833963'
+p1103
+aS'trial 6 event t at 190.701843977'
+p1104
+aS'stimulus draw for phase 0.552303, at 190.713192'
+p1105
+aS'signal in feature: bar ecc bin: 0 phase: 0.570 value: 27.250000 (RG_ratio) 0.000000 at 191.215447 '
+p1106
+aS'signal in feature: fix ecc bin: 0 phase: 0.570 value: 1.000000/0.462117 at 191.215503 '
+p1107
+aS'stimulus draw for phase 0.570117, at 191.225145'
+p1108
+aS'stimulus draw for phase 0.588798, at 191.766863'
+p1109
+aS'staircase bar bin 0 updated after response 0.0 at 192.226533'
+p1110
+aS'trial 6 key: y at time: 192.226575136'
+p1111
+aS'trial 6 event y at 192.226587057'
+p1112
+a(lp1113
+I99
+aF18.542593955993652
+aaS'trial 6 key: t at time: 192.284791946'
+p1114
+aS'trial 6 event t at 192.284803152'
+p1115
+aS'stimulus draw for phase 0.606898, at 192.294387'
+p1116
+aS'signal in feature: bar ecc bin: 0 phase: 0.626 value: 27.812500 (RG_ratio) 0.000000 at 192.823822 '
+p1117
+aS'signal in feature: fix ecc bin: 0 phase: 0.626 value: 1.000000/0.462117 at 192.823877 '
+p1118
+aS'stimulus draw for phase 0.625578, at 192.836246'
+p1119
+aS'stimulus draw for phase 0.644258, at 193.374875'
+p1120
+aS'staircase bar bin 0 updated after response 0.0 at 193.709826'
+p1121
+aS'trial 6 key: y at time: 193.7098701'
+p1122
+aS'trial 6 event y at 193.709882021'
+p1123
+a(lp1124
+I99
+aF20.15089201927185
+aaS'trial 6 key: t at time: 193.893089056'
+p1125
+aS'trial 6 event t at 193.893100023'
+p1126
+aS'stimulus draw for phase 0.662359, at 193.903404'
+p1127
+aS'signal in feature: bar ecc bin: 1 phase: 0.681 value: 43.750000 (RG_ratio) 1.000000 at 194.432101 '
+p1128
+aS'signal in feature: fix ecc bin: 1 phase: 0.681 value: 1.000000/0.462117 at 194.432155 '
+p1129
+aS'stimulus draw for phase 0.681036, at 194.441827'
+p1130
+aS'stimulus draw for phase 0.698852, at 194.959285'
+p1131
+aS'trial 6 key: g at time: 195.368255138'
+p1132
+aS'trial 6 event g at 195.368267059'
+p1133
+a(lp1134
+I99
+aF21.759569883346558
+aaS'trial 6 key: t at time: 195.501767159'
+p1135
+aS'trial 6 event t at 195.501778126'
+p1136
+aS'stimulus draw for phase 0.717818, at 195.512874'
+p1137
+aS'signal in feature: bar ecc bin: 1 phase: 0.736 value: 43.750000 (RG_ratio) 0.000000 at 196.015486 '
+p1138
+aS'signal in feature: fix ecc bin: 1 phase: 0.736 value: 1.000000/0.462117 at 196.015539 '
+p1139
+aS'stimulus draw for phase 0.735636, at 196.025198'
+p1140
+aS'stimulus draw for phase 0.754312, at 196.566682'
+p1141
+a(lp1142
+I99
+aF23.359752893447876
+aaS'trial 6 key: t at time: 197.10194993'
+p1143
+aS'trial 6 event t at 197.101961136'
+p1144
+aS'stimulus draw for phase 0.772993, at 197.111605'
+p1145
+aS'staircase bar bin 1 updated after response 0.0 at 197.218177'
+p1146
+aS'trial 6 key: y at time: 197.218219042'
+p1147
+aS'trial 6 event y at 197.218232155'
+p1148
+aS'signal in feature: bar ecc bin: 1 phase: 0.791 value: 44.500000 (RG_ratio) 0.000000 at 197.623852 '
+p1149
+aS'signal in feature: fix ecc bin: 1 phase: 0.791 value: 1.000000/0.462117 at 197.623905 '
+p1150
+aS'stimulus draw for phase 0.791096, at 197.633608'
+p1151
+aS'stimulus draw for phase 0.809774, at 198.175504'
+p1152
+aS'staircase bar bin 1 updated after response 0.0 at 198.634843'
+p1153
+aS'trial 6 key: y at time: 198.634885073'
+p1154
+aS'trial 6 event y at 198.634896994'
+p1155
+a(lp1156
+I99
+aF24.950830936431885
+aaS'trial 6 key: t at time: 198.69302702'
+p1157
+aS'trial 6 event t at 198.693037033'
+p1158
+aS'stimulus draw for phase 0.827874, at 198.704263'
+p1159
+aS'signal in feature: bar ecc bin: 2 phase: 0.846 value: 24.250000 (RG_ratio) 1.000000 at 199.215429 '
+p1160
+aS'signal in feature: fix ecc bin: 2 phase: 0.846 value: 1.000000/0.462117 at 199.215482 '
+p1161
+aS'stimulus draw for phase 0.845979, at 199.227697'
+p1162
+aS'stimulus draw for phase 0.864658, at 199.766745'
+p1163
+aS'trial 6 key: g at time: 200.076421022'
+p1164
+aS'trial 6 event g at 200.076431036'
+p1165
+a(lp1166
+I99
+aF26.551650047302246
+aaS'trial 6 key: t at time: 200.293847084'
+p1167
+aS'trial 6 event t at 200.293857098'
+p1168
+aS'stimulus draw for phase 0.883050, at 200.304124'
+p1169
+aS'signal in feature: bar ecc bin: 2 phase: 0.902 value: 24.250000 (RG_ratio) 1.000000 at 200.832163 '
+p1170
+aS'signal in feature: fix ecc bin: 2 phase: 0.902 value: 1.000000/0.462117 at 200.832217 '
+p1171
+aS'stimulus draw for phase 0.901728, at 200.841883'
+p1172
+aS'stimulus draw for phase 0.919544, at 201.358078'
+p1173
+aS'trial 6 key: g at time: 201.743122101'
+p1174
+aS'trial 6 event g at 201.743133068'
+p1175
+a(lp1176
+I99
+aF28.15954899787903
+aaS'trial 6 key: t at time: 201.901746035'
+p1177
+aS'trial 6 event t at 201.901757002'
+p1178
+aS'stimulus draw for phase 0.938507, at 201.912254'
+p1179
+aS'signal in feature: bar ecc bin: 2 phase: 0.956 value: 24.250000 (RG_ratio) 1.000000 at 202.415374 '
+p1180
+aS'signal in feature: fix ecc bin: 2 phase: 0.956 value: 1.000000/0.462117 at 202.415431 '
+p1181
+aS'stimulus draw for phase 0.956322, at 202.425313'
+p1182
+aS'stimulus draw for phase 0.974716, at 202.958120'
+p1183
+aS'trial 6 key: g at time: 203.301490068'
+p1184
+aS'trial 6 event g at 203.301501036'
+p1185
+a(lp1186
+I99
+aF29.750958919525146
+aaS'trial 6 key: t at time: 203.493155956'
+p1187
+aS'trial 6 event t at 203.493167162'
+p1188
+aS'stimulus draw for phase 0.993397, at 203.503236'
+p1189
+aS'trial 6 phase 3 started at 203.681638002'
+p1190
+aa(lp1191
+S'trial 7 started at 204.524327993'
+p1192
+aS'trial 7 phase 1 started at 204.524338961'
+p1193
+a(lp1194
+I99
+aF0.560452938079834
+aaS'trial 7 phase 2 started at 205.084785938'
+p1195
+aS'trial 7 key: t at time: 205.084795952'
+p1196
+aS'trial 7 event t at 205.084804058'
+p1197
+aS'stimulus draw for phase 0.000000, at 205.094531'
+p1198
+aS'signal in feature: bar ecc bin: 2 phase: 0.028 value: 24.250000 (RG_ratio) 0.000000 at 205.623782 '
+p1199
+aS'signal in feature: fix ecc bin: 2 phase: 0.028 value: 1.000000/0.462117 at 205.623838 '
+p1200
+aS'stimulus draw for phase 0.028213, at 205.633533'
+p1201
+aS'stimulus draw for phase 0.055559, at 206.158125'
+p1202
+a(lp1203
+I99
+aF2.160421133041382
+aaS'trial 7 key: t at time: 206.684755087'
+p1204
+aS'trial 7 event t at 206.6847651'
+p1205
+aS'stimulus draw for phase 0.084201, at 206.709161'
+p1206
+aS'signal in feature: bar ecc bin: 2 phase: 0.112 value: 24.250000 (RG_ratio) 0.000000 at 207.232154 '
+p1207
+aS'signal in feature: fix ecc bin: 2 phase: 0.112 value: 1.000000/0.462117 at 207.232211 '
+p1208
+aS'stimulus draw for phase 0.111982, at 207.244989'
+p1209
+aS'stimulus draw for phase 0.138893, at 207.758130'
+p1210
+aS'staircase bar bin 2 updated after response 0.0 at 207.859827'
+p1211
+aS'trial 7 key: y at time: 207.859869003'
+p1212
+aS'trial 7 event y at 207.859881163'
+p1213
+a(lp1214
+I99
+aF3.7688441276550293
+aaS'trial 7 key: t at time: 208.293178082'
+p1215
+aS'trial 7 event t at 208.293189049'
+p1216
+aS'stimulus draw for phase 0.167107, at 208.303287'
+p1217
+aS'signal in feature: bar ecc bin: 1 phase: 0.195 value: 45.250000 (RG_ratio) 0.000000 at 208.832081 '
+p1218
+aS'signal in feature: fix ecc bin: 1 phase: 0.195 value: 1.000000/0.462117 at 208.832136 '
+p1219
+aS'stimulus draw for phase 0.195312, at 208.844847'
+p1220
+aS'stimulus draw for phase 0.222228, at 209.358207'
+p1221
+aS'staircase bar bin 1 updated after response 0.0 at 209.493175'
+p1222
+aS'trial 7 key: y at time: 209.493217945'
+p1223
+aS'trial 7 event y at 209.493230104'
+p1224
+a(lp1225
+I99
+aF5.377441167831421
+aaS'trial 7 key: t at time: 209.901775122'
+p1226
+aS'trial 7 event t at 209.901785135'
+p1227
+aS'stimulus draw for phase 0.250870, at 209.912502'
+p1228
+aS'signal in feature: bar ecc bin: 1 phase: 0.278 value: 46.000000 (RG_ratio) 0.000000 at 210.415482 '
+p1229
+aS'signal in feature: fix ecc bin: 1 phase: 0.278 value: 1.000000/0.462117 at 210.415535 '
+p1230
+aS'stimulus draw for phase 0.277781, at 210.425234'
+p1231
+aS'stimulus draw for phase 0.306426, at 210.974819'
+p1232
+aS'staircase bar bin 1 updated after response 0.0 at 211.309903'
+p1233
+aS'trial 7 key: y at time: 211.309945107'
+p1234
+aS'trial 7 event y at 211.309957027'
+p1235
+a(lp1236
+I99
+aF6.969154119491577
+aaS'trial 7 key: t at time: 211.493488073'
+p1237
+aS'trial 7 event t at 211.493498087'
+p1238
+aS'stimulus draw for phase 0.333773, at 211.503791'
+p1239
+aS'signal in feature: bar ecc bin: 0 phase: 0.362 value: 28.375000 (RG_ratio) 0.000000 at 212.032206 '
+p1240
+aS'signal in feature: fix ecc bin: 0 phase: 0.362 value: 1.000000/0.462117 at 212.032262 '
+p1241
+aS'stimulus draw for phase 0.361985, at 212.041980'
+p1242
+aS'stimulus draw for phase 0.388891, at 212.559267'
+p1243
+aS'staircase bar bin 0 updated after response 0.0 at 212.893188'
+p1244
+aS'trial 7 key: y at time: 212.893229961'
+p1245
+aS'trial 7 event y at 212.893242121'
+p1246
+a(lp1247
+I99
+aF8.577485084533691
+aaS'trial 7 key: t at time: 213.101819038'
+p1248
+aS'trial 7 event t at 213.101830006'
+p1249
+aS'stimulus draw for phase 0.417538, at 213.111555'
+p1250
+aS'signal in feature: bar ecc bin: 0 phase: 0.444 value: 28.937500 (RG_ratio) 1.000000 at 213.615470 '
+p1251
+aS'signal in feature: fix ecc bin: 0 phase: 0.444 value: 1.000000/0.462117 at 213.615522 '
+p1252
+aS'stimulus draw for phase 0.444446, at 213.625235'
+p1253
+aS'stimulus draw for phase 0.473096, at 214.174865'
+p1254
+aS'trial 7 key: g at time: 214.334872961'
+p1255
+aS'trial 7 event g at 214.334883928'
+p1256
+a(lp1257
+I99
+aF10.168713092803955
+aaS'trial 7 key: t at time: 214.693047047'
+p1258
+aS'trial 7 event t at 214.69305706'
+p1259
+aS'stimulus draw for phase 0.500434, at 214.704045'
+p1260
+aS'signal in feature: bar ecc bin: 0 phase: 0.528 value: 28.937500 (RG_ratio) 0.000000 at 215.215540 '
+p1261
+aS'signal in feature: fix ecc bin: 0 phase: 0.528 value: 1.000000/0.462117 at 215.215596 '
+p1262
+aS'stimulus draw for phase 0.527784, at 215.227929'
+p1263
+aS'stimulus draw for phase 0.555995, at 215.766507'
+p1264
+aS'staircase bar bin 0 updated after response 0.0 at 215.901607'
+p1265
+aS'trial 7 key: y at time: 215.901648998'
+p1266
+aS'trial 7 event y at 215.901662111'
+p1267
+a(lp1268
+I99
+aF11.760499000549316
+aaS'trial 7 key: t at time: 216.284832954'
+p1269
+aS'trial 7 event t at 216.284842968'
+p1270
+aS'stimulus draw for phase 0.583339, at 216.295236'
+p1271
+aS'signal in feature: bar ecc bin: 0 phase: 0.612 value: 29.500000 (RG_ratio) 0.000000 at 216.823814 '
+p1272
+aS'signal in feature: fix ecc bin: 0 phase: 0.612 value: 1.000000/0.462117 at 216.823871 '
+p1273
+aS'stimulus draw for phase 0.611548, at 216.833724'
+p1274
+aS'stimulus draw for phase 0.639759, at 217.375403'
+p1275
+a(lp1276
+I99
+aF13.360486030578613
+aaS'trial 7 key: t at time: 217.884819984'
+p1277
+aS'trial 7 event t at 217.884829998'
+p1278
+aS'stimulus draw for phase 0.666672, at 217.895485'
+p1279
+aS'staircase bar bin 1 updated after response 0.0 at 218.159852'
+p1280
+aS'trial 7 key: y at time: 218.159896135'
+p1281
+aS'trial 7 event y at 218.159908056'
+p1282
+aS'signal in feature: bar ecc bin: 1 phase: 0.694 value: 46.750000 (RG_ratio) 0.000000 at 218.415500 '
+p1283
+aS'signal in feature: fix ecc bin: 1 phase: 0.694 value: 1.000000/0.462117 at 218.415552 '
+p1284
+aS'stimulus draw for phase 0.694448, at 218.427863'
+p1285
+aS'stimulus draw for phase 0.722662, at 218.966968'
+p1286
+a(lp1287
+I99
+aF14.977551937103271
+aaS'trial 7 key: t at time: 219.501886129'
+p1288
+aS'trial 7 event t at 219.501896143'
+p1289
+aS'stimulus draw for phase 0.750874, at 219.511801'
+p1290
+aS'staircase bar bin 1 updated after response 0.0 at 219.768222'
+p1291
+aS'trial 7 key: y at time: 219.768268108'
+p1292
+aS'trial 7 event y at 219.768278122'
+p1293
+aS'signal in feature: bar ecc bin: 1 phase: 0.778 value: 47.500000 (RG_ratio) 1.000000 at 220.024397 '
+p1294
+aS'signal in feature: fix ecc bin: 1 phase: 0.778 value: 1.000000/0.462117 at 220.024450 '
+p1295
+aS'stimulus draw for phase 0.778233, at 220.034133'
+p1296
+aS'stimulus draw for phase 0.806424, at 220.576155'
+p1297
+aS'trial 7 key: g at time: 220.809782982'
+p1298
+aS'trial 7 event g at 220.809795141'
+p1299
+a(lp1300
+I99
+aF16.568735122680664
+aaS'trial 7 key: t at time: 221.093069077'
+p1301
+aS'trial 7 event t at 221.093080044'
+p1302
+aS'stimulus draw for phase 0.833770, at 221.103115'
+p1303
+aS'signal in feature: bar ecc bin: 2 phase: 0.862 value: 25.000000 (RG_ratio) 1.000000 at 221.632129 '
+p1304
+aS'signal in feature: fix ecc bin: 2 phase: 0.862 value: 1.000000/0.462117 at 221.632184 '
+p1305
+aS'stimulus draw for phase 0.861982, at 221.641944'
+p1306
+aS'stimulus draw for phase 0.888890, at 222.158283'
+p1307
+aS'trial 7 key: g at time: 222.418184996'
+p1308
+aS'trial 7 event g at 222.418195963'
+p1309
+a(lp1310
+I99
+aF18.17752695083618
+aaS'trial 7 key: t at time: 222.701861143'
+p1311
+aS'trial 7 event t at 222.701871157'
+p1312
+aS'stimulus draw for phase 0.917541, at 222.711680'
+p1313
+aS'signal in feature: bar ecc bin: 2 phase: 0.944 value: 25.000000 (RG_ratio) 1.000000 at 223.215516 '
+p1314
+aS'signal in feature: fix ecc bin: 2 phase: 0.944 value: 1.000000/0.462117 at 223.215571 '
+p1315
+aS'stimulus draw for phase 0.944450, at 223.225243'
+p1316
+aS'stimulus draw for phase 0.973095, at 223.775281'
+p1317
+aS'trial 7 key: g at time: 223.876497984'
+p1318
+aS'trial 7 event g at 223.876511097'
+p1319
+aS'trial 7 phase 3 started at 224.290127993'
+p1320
+a(lp1321
+I99
+aF19.768903970718384
+aaS'trial 7 key: t at time: 224.293238163'
+p1322
+aS'trial 7 event t at 224.293246984'
+p1323
+aa(lp1324
+S'trial 8 started at 225.141417027'
+p1325
+aS'trial 8 phase 1 started at 225.14143014'
+p1326
+a(lp1327
+I99
+aF0.7434649467468262
+aaS'trial 8 phase 2 started at 225.88488698'
+p1328
+aS'trial 8 key: t at time: 225.884897947'
+p1329
+aS'trial 8 event t at 225.884906054'
+p1330
+aS'stimulus draw for phase 0.000000, at 225.894668'
+p1331
+aS'signal in feature: bar ecc bin: 2 phase: 0.019 value: 25.000000 (RG_ratio) 1.000000 at 226.423709 '
+p1332
+aS'signal in feature: fix ecc bin: 2 phase: 0.019 value: 1.000000/0.462117 at 226.423764 '
+p1333
+aS'stimulus draw for phase 0.018675, at 226.433405'
+p1334
+aS'stimulus draw for phase 0.036784, at 226.958259'
+p1335
+a(lp1336
+I99
+aF2.3489620685577393
+aaS'trial 8 key: t at time: 227.490385056'
+p1337
+aS'trial 8 event t at 227.490395069'
+p1338
+aS'stimulus draw for phase 0.055461, at 227.503174'
+p1339
+aS'signal in feature: bar ecc bin: 2 phase: 0.074 value: 25.000000 (RG_ratio) 1.000000 at 228.023798 '
+p1340
+aS'signal in feature: fix ecc bin: 2 phase: 0.074 value: 1.000000/0.462117 at 228.023856 '
+p1341
+aS'stimulus draw for phase 0.073850, at 228.034619'
+p1342
+aS'stimulus draw for phase 0.092240, at 228.566552'
+p1343
+aS'trial 8 key: g at time: 228.63479495'
+p1344
+aS'trial 8 event g at 228.634806156'
+p1345
+a(lp1346
+I99
+aF3.9433860778808594
+aaS'trial 8 key: t at time: 229.084809065'
+p1347
+aS'trial 8 event t at 229.084820032'
+p1348
+aS'stimulus draw for phase 0.110346, at 229.094615'
+p1349
+aS'signal in feature: bar ecc bin: 2 phase: 0.129 value: 25.000000 (RG_ratio) 1.000000 at 229.623839 '
+p1350
+aS'signal in feature: fix ecc bin: 2 phase: 0.129 value: 1.000000/0.462117 at 229.623895 '
+p1351
+aS'stimulus draw for phase 0.129023, at 229.633592'
+p1352
+aS'stimulus draw for phase 0.147410, at 230.167652'
+p1353
+aS'trial 8 key: g at time: 230.276505947'
+p1354
+aS'trial 8 event g at 230.276518106'
+p1355
+a(lp1356
+I99
+aF5.566206932067871
+aaS'trial 8 key: t at time: 230.707630157'
+p1357
+aS'trial 8 event t at 230.707639933'
+p1358
+aS'stimulus draw for phase 0.166382, at 230.717549'
+p1359
+aS'signal in feature: bar ecc bin: 1 phase: 0.184 value: 47.500000 (RG_ratio) 0.000000 at 231.223791 '
+p1360
+aS'signal in feature: fix ecc bin: 1 phase: 0.184 value: 1.000000/0.462117 at 231.223847 '
+p1361
+aS'stimulus draw for phase 0.184194, at 231.233681'
+p1362
+aS'stimulus draw for phase 0.202874, at 231.774919'
+p1363
+aS'staircase bar bin 1 updated after response 0.0 at 231.859947'
+p1364
+aS'trial 8 key: y at time: 231.859988928'
+p1365
+aS'trial 8 event y at 231.860001087'
+p1366
+a(lp1367
+I99
+aF7.15170693397522
+aaS'trial 8 key: t at time: 232.293130159'
+p1368
+aS'trial 8 event t at 232.293139935'
+p1369
+aS'stimulus draw for phase 0.220977, at 232.303255'
+p1370
+aS'signal in feature: bar ecc bin: 1 phase: 0.240 value: 48.250000 (RG_ratio) 0.000000 at 232.832156 '
+p1371
+aS'signal in feature: fix ecc bin: 1 phase: 0.240 value: 1.000000/0.462117 at 232.832212 '
+p1372
+aS'stimulus draw for phase 0.239655, at 232.841905'
+p1373
+aS'stimulus draw for phase 0.257472, at 233.358277'
+p1374
+aS'staircase bar bin 1 updated after response 0.0 at 233.668203'
+p1375
+aS'trial 8 key: y at time: 233.668245077'
+p1376
+aS'trial 8 event y at 233.668256998'
+p1377
+a(lp1378
+I99
+aF8.766124963760376
+aaS'trial 8 key: t at time: 233.907547951'
+p1379
+aS'trial 8 event t at 233.907557964'
+p1380
+aS'stimulus draw for phase 0.276724, at 233.917519'
+p1381
+aS'signal in feature: bar ecc bin: 1 phase: 0.295 value: 49.000000 (RG_ratio) 0.000000 at 234.423820 '
+p1382
+aS'signal in feature: fix ecc bin: 1 phase: 0.295 value: 1.000000/0.462117 at 234.423874 '
+p1383
+aS'stimulus draw for phase 0.294540, at 234.433647'
+p1384
+aS'stimulus draw for phase 0.313219, at 234.974900'
+p1385
+aS'staircase bar bin 1 updated after response 0.0 at 235.384907'
+p1386
+aS'trial 8 key: y at time: 235.384948969'
+p1387
+aS'trial 8 event y at 235.384962082'
+p1388
+a(lp1389
+I99
+aF10.351714134216309
+aaS'trial 8 key: t at time: 235.493135929'
+p1390
+aS'trial 8 event t at 235.493147135'
+p1391
+aS'stimulus draw for phase 0.331323, at 235.504434'
+p1392
+aS'signal in feature: bar ecc bin: 0 phase: 0.350 value: 30.062500 (RG_ratio) 1.000000 at 236.040425 '
+p1393
+aS'signal in feature: fix ecc bin: 0 phase: 0.350 value: 1.000000/0.462117 at 236.040479 '
+p1394
+aS'stimulus draw for phase 0.350285, at 236.050278'
+p1395
+aS'stimulus draw for phase 0.368106, at 236.566645'
+p1396
+a(lp1397
+I99
+aF11.966377973556519
+aaS'trial 8 key: t at time: 237.107802153'
+p1398
+aS'trial 8 event t at 237.107811928'
+p1399
+aS'stimulus draw for phase 0.387069, at 237.117508'
+p1400
+aS'signal in feature: bar ecc bin: 0 phase: 0.405 value: 30.062500 (RG_ratio) 1.000000 at 237.623767 '
+p1401
+aS'signal in feature: fix ecc bin: 0 phase: 0.405 value: 1.000000/0.462117 at 237.623821 '
+p1402
+aS'stimulus draw for phase 0.404883, at 237.633721'
+p1403
+aS'trial 8 key: g at time: 238.07365799'
+p1404
+aS'trial 8 event g at 238.073670149'
+p1405
+aS'stimulus draw for phase 0.422989, at 238.159484'
+p1406
+a(lp1407
+I99
+aF13.551723957061768
+aaS'trial 8 key: t at time: 238.69314599'
+p1408
+aS'trial 8 event t at 238.693156958'
+p1409
+aS'stimulus draw for phase 0.441667, at 238.704451'
+p1410
+aS'signal in feature: bar ecc bin: 0 phase: 0.461 value: 30.062500 (RG_ratio) 0.000000 at 239.240529 '
+p1411
+aS'signal in feature: fix ecc bin: 0 phase: 0.461 value: 1.000000/0.462117 at 239.240585 '
+p1412
+aS'stimulus draw for phase 0.460633, at 239.250257'
+p1413
+aS'stimulus draw for phase 0.478445, at 239.767411'
+p1414
+aS'staircase bar bin 0 updated after response 0.0 at 239.876519'
+p1415
+aS'trial 8 key: y at time: 239.876564026'
+p1416
+aS'trial 8 event y at 239.876577139'
+p1417
+a(lp1418
+I99
+aF15.143471956253052
+aaS'trial 8 key: t at time: 240.284894943'
+p1419
+aS'trial 8 event t at 240.284904957'
+p1420
+aS'stimulus draw for phase 0.496553, at 240.294757'
+p1421
+aS'signal in feature: bar ecc bin: 0 phase: 0.515 value: 30.625000 (RG_ratio) 1.000000 at 240.823747 '
+p1422
+aS'signal in feature: fix ecc bin: 0 phase: 0.515 value: 1.000000/0.462117 at 240.823801 '
+p1423
+aS'stimulus draw for phase 0.515227, at 240.833888'
+p1424
+aS'stimulus draw for phase 0.533910, at 241.375565'
+p1425
+aS'trial 8 key: g at time: 241.715335131'
+p1426
+aS'trial 8 event g at 241.715346098'
+p1427
+a(lp1428
+I99
+aF16.751753091812134
+aaS'trial 8 key: t at time: 241.893176079'
+p1429
+aS'trial 8 event t at 241.893186092'
+p1430
+aS'stimulus draw for phase 0.552012, at 241.904592'
+p1431
+aS'signal in feature: bar ecc bin: 0 phase: 0.571 value: 30.625000 (RG_ratio) 0.000000 at 242.440409 '
+p1432
+aS'signal in feature: fix ecc bin: 0 phase: 0.571 value: 1.000000/0.462117 at 242.440465 '
+p1433
+aS'stimulus draw for phase 0.570974, at 242.450590'
+p1434
+aS'stimulus draw for phase 0.588793, at 242.966520'
+p1435
+aS'staircase bar bin 0 updated after response 0.0 at 243.251502'
+p1436
+aS'trial 8 key: y at time: 243.251544952'
+p1437
+aS'trial 8 event y at 243.251556158'
+p1438
+a(lp1439
+I99
+aF18.34335494041443
+aaS'trial 8 key: t at time: 243.484777927'
+p1440
+aS'trial 8 event t at 243.484787941'
+p1441
+aS'stimulus draw for phase 0.606897, at 243.494651'
+p1442
+aS'signal in feature: bar ecc bin: 0 phase: 0.626 value: 31.187500 (RG_ratio) 0.000000 at 244.023847 '
+p1443
+aS'signal in feature: fix ecc bin: 0 phase: 0.626 value: 1.000000/0.462117 at 244.023903 '
+p1444
+aS'stimulus draw for phase 0.625575, at 244.033548'
+p1445
+aS'stimulus draw for phase 0.644250, at 244.575368'
+p1446
+aS'staircase bar bin 0 updated after response 0.0 at 244.959939'
+p1447
+aS'trial 8 key: y at time: 244.959980965'
+p1448
+aS'trial 8 event y at 244.959994078'
+p1449
+a(lp1450
+I99
+aF19.951705932617188
+aaS'trial 8 key: t at time: 245.093129158'
+p1451
+aS'trial 8 event t at 245.093141079'
+p1452
+aS'stimulus draw for phase 0.662356, at 245.104351'
+p1453
+aS'signal in feature: bar ecc bin: 1 phase: 0.681 value: 49.750000 (RG_ratio) 1.000000 at 245.640512 '
+p1454
+aS'signal in feature: fix ecc bin: 1 phase: 0.681 value: 1.000000/0.462117 at 245.640565 '
+p1455
+aS'stimulus draw for phase 0.681322, at 245.650194'
+p1456
+aS'stimulus draw for phase 0.699138, at 246.166569'
+p1457
+aS'trial 8 key: g at time: 246.551501989'
+p1458
+aS'trial 8 event g at 246.551514149'
+p1459
+a(lp1460
+I99
+aF21.543302059173584
+aaS'trial 8 key: t at time: 246.684725046'
+p1461
+aS'trial 8 event t at 246.68473506'
+p1462
+aS'stimulus draw for phase 0.718391, at 246.725930'
+p1463
+aS'signal in feature: bar ecc bin: 1 phase: 0.736 value: 49.750000 (RG_ratio) 0.000000 at 247.232136 '
+p1464
+aS'signal in feature: fix ecc bin: 1 phase: 0.736 value: 1.000000/0.462117 at 247.232190 '
+p1465
+aS'stimulus draw for phase 0.736206, at 247.241825'
+p1466
+aS'stimulus draw for phase 0.754024, at 247.758185'
+p1467
+aS'staircase bar bin 1 updated after response 0.0 at 248.243228'
+p1468
+aS'trial 8 key: y at time: 248.243270159'
+p1469
+aS'trial 8 event y at 248.24328208'
+p1470
+a(lp1471
+I99
+aF23.166083097457886
+aaS'trial 8 key: t at time: 248.307506084'
+p1472
+aS'trial 8 event t at 248.307516098'
+p1473
+aS'stimulus draw for phase 0.773274, at 248.317484'
+p1474
+aS'signal in feature: bar ecc bin: 1 phase: 0.791 value: 50.500000 (RG_ratio) 0.000000 at 248.823734 '
+p1475
+aS'signal in feature: fix ecc bin: 1 phase: 0.791 value: 1.000000/0.462117 at 248.823790 '
+p1476
+aS'stimulus draw for phase 0.791089, at 248.833480'
+p1477
+aS'stimulus draw for phase 0.809769, at 249.375695'
+p1478
+aS'staircase bar bin 1 updated after response 0.0 at 249.785099'
+p1479
+aS'trial 8 key: y at time: 249.785141945'
+p1480
+aS'trial 8 event y at 249.785154104'
+p1481
+a(lp1482
+I99
+aF24.75173807144165
+aaS'trial 8 key: t at time: 249.893161058'
+p1483
+aS'trial 8 event t at 249.893171072'
+p1484
+aS'stimulus draw for phase 0.827876, at 249.903124'
+p1485
+aS'signal in feature: bar ecc bin: 2 phase: 0.847 value: 25.000000 (RG_ratio) 1.000000 at 250.432205 '
+p1486
+aS'signal in feature: fix ecc bin: 2 phase: 0.847 value: 1.000000/0.462117 at 250.432259 '
+p1487
+aS'stimulus draw for phase 0.846554, at 250.441913'
+p1488
+aS'stimulus draw for phase 0.865230, at 250.986791'
+p1489
+a(lp1490
+I99
+aF26.351660013198853
+aaS'trial 8 key: t at time: 251.493083'
+p1491
+aS'trial 8 event t at 251.493093967'
+p1492
+aS'stimulus draw for phase 0.883045, at 251.503714'
+p1493
+aS'trial 8 key: g at time: 251.532011986'
+p1494
+aS'trial 8 event g at 251.532024145'
+p1495
+aS'signal in feature: bar ecc bin: 2 phase: 0.902 value: 25.000000 (RG_ratio) 0.000000 at 252.032214 '
+p1496
+aS'signal in feature: fix ecc bin: 2 phase: 0.902 value: 1.000000/0.462117 at 252.032270 '
+p1497
+aS'stimulus draw for phase 0.901726, at 252.041935'
+p1498
+aS'stimulus draw for phase 0.920404, at 252.583478'
+p1499
+a(lp1500
+I99
+aF27.951689958572388
+aaS'trial 8 key: t at time: 253.093112946'
+p1501
+aS'trial 8 event t at 253.093122959'
+p1502
+aS'stimulus draw for phase 0.938218, at 253.103120'
+p1503
+aS'staircase bar bin 2 updated after response 0.0 at 253.176469'
+p1504
+aS'trial 8 key: y at time: 253.176511049'
+p1505
+aS'trial 8 event y at 253.176524162'
+p1506
+aS'signal in feature: bar ecc bin: 2 phase: 0.957 value: 25.750000 (RG_ratio) 1.000000 at 253.632140 '
+p1507
+aS'signal in feature: fix ecc bin: 2 phase: 0.957 value: 1.000000/0.462117 at 253.632194 '
+p1508
+aS'stimulus draw for phase 0.956896, at 253.641868'
+p1509
+aS'stimulus draw for phase 0.974714, at 254.158203'
+p1510
+aS'trial 8 key: g at time: 254.568161011'
+p1511
+aS'trial 8 event g at 254.568172932'
+p1512
+a(lp1513
+I99
+aF29.55781602859497
+aaS'trial 8 key: t at time: 254.699239016'
+p1514
+aS'trial 8 event t at 254.699249029'
+p1515
+aS'stimulus draw for phase 0.993679, at 254.709152'
+p1516
+aS'trial 8 phase 3 started at 254.890010118'
+p1517
+aa(lp1518
+S'trial 9 started at 255.74060607'
+p1519
+aS'trial 9 phase 1 started at 255.740616083'
+p1520
+a(lp1521
+I99
+aF0.5441439151763916
+aaS'trial 9 phase 2 started at 256.284754992'
+p1522
+aS'trial 9 key: t at time: 256.284765959'
+p1523
+aS'trial 9 event t at 256.284773111'
+p1524
+aS'stimulus draw for phase 0.000000, at 256.295045'
+p1525
+aS'signal in feature: bar ecc bin: 2 phase: 0.028 value: 25.750000 (RG_ratio) 0.000000 at 256.823720 '
+p1526
+aS'signal in feature: fix ecc bin: 2 phase: 0.028 value: 1.000000/0.462117 at 256.823777 '
+p1527
+aS'stimulus draw for phase 0.028207, at 256.833722'
+p1528
+aS'stimulus draw for phase 0.055556, at 257.358443'
+p1529
+a(lp1530
+I99
+aF2.1497080326080322
+aaS'trial 9 key: t at time: 257.890319109'
+p1531
+aS'trial 9 event t at 257.890329123'
+p1532
+aS'stimulus draw for phase 0.083767, at 257.900361'
+p1533
+aS'signal in feature: bar ecc bin: 2 phase: 0.112 value: 25.750000 (RG_ratio) 0.000000 at 258.423813 '
+p1534
+aS'signal in feature: fix ecc bin: 2 phase: 0.112 value: 1.000000/0.462117 at 258.423871 '
+p1535
+aS'stimulus draw for phase 0.111547, at 258.436318'
+p1536
+aS'stimulus draw for phase 0.139759, at 258.974872'
+p1537
+aS'staircase bar bin 2 updated after response 0.0 at 259.273704'
+p1538
+aS'trial 9 key: y at time: 259.273746014'
+p1539
+aS'trial 9 event y at 259.27375412'
+p1540
+a(lp1541
+I99
+aF3.744168996810913
+aaS'trial 9 key: t at time: 259.484781027'
+p1542
+aS'trial 9 event t at 259.484791994'
+p1543
+aS'stimulus draw for phase 0.166669, at 259.495023'
+p1544
+aS'signal in feature: bar ecc bin: 1 phase: 0.195 value: 51.250000 (RG_ratio) 0.000000 at 260.024362 '
+p1545
+aS'signal in feature: fix ecc bin: 1 phase: 0.195 value: 1.000000/0.462117 at 260.024414 '
+p1546
+aS'stimulus draw for phase 0.194895, at 260.037197'
+p1547
+aS'stimulus draw for phase 0.223093, at 260.574875'
+p1548
+aS'staircase bar bin 1 updated after response 0.0 at 260.909885'
+p1549
+aS'trial 9 key: y at time: 260.90992713'
+p1550
+aS'trial 9 event y at 260.909938097'
+p1551
+a(lp1552
+I99
+aF5.352492094039917
+aaS'trial 9 key: t at time: 261.093104124'
+p1553
+aS'trial 9 event t at 261.093114138'
+p1554
+aS'stimulus draw for phase 0.250433, at 261.103091'
+p1555
+aS'signal in feature: bar ecc bin: 1 phase: 0.279 value: 52.000000 (RG_ratio) 0.000000 at 261.632182 '
+p1556
+aS'signal in feature: fix ecc bin: 1 phase: 0.279 value: 1.000000/0.462117 at 261.632236 '
+p1557
+aS'stimulus draw for phase 0.278648, at 261.642257'
+p1558
+aS'stimulus draw for phase 0.305984, at 262.166879'
+p1559
+a(lp1560
+I99
+aF6.96696400642395
+aaS'trial 9 key: t at time: 262.70757699'
+p1561
+aS'trial 9 event t at 262.707587004'
+p1562
+aS'stimulus draw for phase 0.334637, at 262.717425'
+p1563
+aS'staircase bar bin 0 updated after response 0.0 at 262.776643'
+p1564
+aS'trial 9 key: y at time: 262.776684046'
+p1565
+aS'trial 9 event y at 262.776697159'
+p1566
+aS'signal in feature: bar ecc bin: 0 phase: 0.362 value: 31.750000 (RG_ratio) 0.000000 at 263.232177 '
+p1567
+aS'signal in feature: fix ecc bin: 0 phase: 0.362 value: 1.000000/0.462117 at 263.232234 '
+p1568
+aS'stimulus draw for phase 0.361982, at 263.244873'
+p1569
+aS'stimulus draw for phase 0.390187, at 263.783777'
+p1570
+a(lp1571
+I99
+aF8.569299936294556
+aaS'trial 9 key: t at time: 264.309911966'
+p1572
+aS'trial 9 event t at 264.30992198'
+p1573
+aS'staircase bar bin 0 updated after response 0.0 at 264.309957'
+p1574
+aS'trial 9 key: y at time: 264.309996128'
+p1575
+aS'trial 9 event y at 264.31000495'
+p1576
+aS'stimulus draw for phase 0.417969, at 264.321101'
+p1577
+aS'signal in feature: bar ecc bin: 0 phase: 0.445 value: 32.312500 (RG_ratio) 0.000000 at 264.823783 '
+p1578
+aS'signal in feature: fix ecc bin: 0 phase: 0.445 value: 1.000000/0.462117 at 264.823839 '
+p1579
+aS'stimulus draw for phase 0.444878, at 264.833474'
+p1580
+aS'stimulus draw for phase 0.473093, at 265.375029'
+p1581
+a(lp1582
+I99
+aF10.144222021102905
+aaS'trial 9 key: t at time: 265.884833097'
+p1583
+aS'trial 9 event t at 265.884844065'
+p1584
+aS'stimulus draw for phase 0.500004, at 265.896706'
+p1585
+aS'staircase bar bin 0 updated after response 0.0 at 265.932327'
+p1586
+aS'trial 9 key: y at time: 265.932381153'
+p1587
+aS'trial 9 event y at 265.932389021'
+p1588
+aS'signal in feature: bar ecc bin: 0 phase: 0.529 value: 32.875000 (RG_ratio) 1.000000 at 266.432168 '
+p1589
+aS'signal in feature: fix ecc bin: 0 phase: 0.529 value: 1.000000/0.462117 at 266.432222 '
+p1590
+aS'stimulus draw for phase 0.528648, at 266.441923'
+p1591
+aS'stimulus draw for phase 0.555556, at 266.958042'
+p1592
+aS'trial 9 key: g at time: 267.318277121'
+p1593
+aS'trial 9 event g at 267.318289042'
+p1594
+a(lp1595
+I99
+aF11.76688003540039
+aaS'trial 9 key: t at time: 267.507492065'
+p1596
+aS'trial 9 event t at 267.507502079'
+p1597
+aS'stimulus draw for phase 0.584632, at 267.517345'
+p1598
+aS'signal in feature: bar ecc bin: 0 phase: 0.612 value: 32.875000 (RG_ratio) 1.000000 at 268.023879 '
+p1599
+aS'signal in feature: fix ecc bin: 0 phase: 0.612 value: 1.000000/0.462117 at 268.023933 '
+p1600
+aS'stimulus draw for phase 0.611548, at 268.033577'
+p1601
+aS'stimulus draw for phase 0.639758, at 268.576342'
+p1602
+aS'trial 9 key: g at time: 269.093038082'
+p1603
+aS'trial 9 event g at 269.093050957'
+p1604
+a(lp1605
+I99
+aF13.352447986602783
+aaS'trial 9 key: t at time: 269.093057156'
+p1606
+aS'trial 9 event t at 269.09306097'
+p1607
+aS'stimulus draw for phase 0.667102, at 269.103244'
+p1608
+aS'signal in feature: bar ecc bin: 1 phase: 0.695 value: 52.750000 (RG_ratio) 1.000000 at 269.632114 '
+p1609
+aS'signal in feature: fix ecc bin: 1 phase: 0.695 value: 1.000000/0.462117 at 269.632168 '
+p1610
+aS'stimulus draw for phase 0.695312, at 269.641771'
+p1611
+aS'stimulus draw for phase 0.722656, at 270.166730'
+p1612
+a(lp1613
+I99
+aF14.966997861862183
+aaS'trial 9 key: t at time: 270.707611084'
+p1614
+aS'trial 9 event t at 270.707621098'
+p1615
+aS'stimulus draw for phase 0.751305, at 270.717511'
+p1616
+aS'trial 9 key: g at time: 271.126490116'
+p1617
+aS'trial 9 event g at 271.126502037'
+p1618
+aS'signal in feature: bar ecc bin: 1 phase: 0.779 value: 52.750000 (RG_ratio) 0.000000 at 271.232109 '
+p1619
+aS'signal in feature: fix ecc bin: 1 phase: 0.779 value: 1.000000/0.462117 at 271.232164 '
+p1620
+aS'stimulus draw for phase 0.778645, at 271.241842'
+p1621
+aS'stimulus draw for phase 0.805556, at 271.758103'
+p1622
+aS'staircase bar bin 1 updated after response 0.0 at 272.068099'
+p1623
+aS'trial 9 key: y at time: 272.068140984'
+p1624
+aS'trial 9 event y at 272.068153143'
+p1625
+a(lp1626
+I99
+aF16.566997051239014
+aaS'trial 9 key: t at time: 272.307609081'
+p1627
+aS'trial 9 event t at 272.307619095'
+p1628
+aS'stimulus draw for phase 0.834638, at 272.317472'
+p1629
+aS'signal in feature: bar ecc bin: 2 phase: 0.862 value: 26.500000 (RG_ratio) 0.000000 at 272.823879 '
+p1630
+aS'signal in feature: fix ecc bin: 2 phase: 0.862 value: 1.000000/0.462117 at 272.823936 '
+p1631
+aS'stimulus draw for phase 0.861549, at 272.833568'
+p1632
+aS'stimulus draw for phase 0.889756, at 273.374840'
+p1633
+aS'trial 9 key: g at time: 273.434889078'
+p1634
+aS'trial 9 event g at 273.434900999'
+p1635
+a(lp1636
+I99
+aF18.152549982070923
+aaS'trial 9 key: t at time: 273.893162012'
+p1637
+aS'trial 9 event t at 273.893172026'
+p1638
+aS'stimulus draw for phase 0.917103, at 273.903120'
+p1639
+aS'signal in feature: bar ecc bin: 2 phase: 0.945 value: 26.500000 (RG_ratio) 1.000000 at 274.423858 '
+p1640
+aS'signal in feature: fix ecc bin: 2 phase: 0.945 value: 1.000000/0.462117 at 274.423913 '
+p1641
+aS'stimulus draw for phase 0.944881, at 274.433583'
+p1642
+aS'stimulus draw for phase 0.972226, at 274.958211'
+p1643
+aS'trial 9 key: g at time: 275.084900141'
+p1644
+aS'trial 9 event g at 275.084912062'
+p1645
+aS'trial 9 phase 3 started at 275.481725931'
+p1646
+a(lp1647
+I99
+aF19.74419903755188
+aaS'trial 9 key: t at time: 275.48480916'
+p1648
+aS'trial 9 event t at 275.484817982'
+p1649
+aa(lp1650
+S'trial 10 started at 276.333199978'
+p1651
+aS'trial 10 phase 1 started at 276.333209991'
+p1652
+a(lp1653
+I99
+aF0.7488360404968262
+aaS'trial 10 phase 2 started at 277.082040071'
+p1654
+aS'trial 10 key: t at time: 277.082051039'
+p1655
+aS'trial 10 event t at 277.082059145'
+p1656
+aS'stimulus draw for phase 0.000000, at 277.091684'
+p1657
+aS'signal in feature: bar ecc bin: 2 phase: 0.029 value: 26.500000 (RG_ratio) 1.000000 at 277.623712 '
+p1658
+aS'signal in feature: fix ecc bin: 2 phase: 0.029 value: 1.000000/0.462117 at 277.623757 '
+p1659
+aS'stimulus draw for phase 0.028502, at 277.633325'
+p1660
+aS'stimulus draw for phase 0.056574, at 278.166312'
+p1661
+a(lp1662
+I99
+aF2.3488171100616455
+aaS'trial 10 key: t at time: 278.682022095'
+p1663
+aS'trial 10 event t at 278.682032108'
+p1664
+aS'stimulus draw for phase 0.084650, at 278.700221'
+p1665
+aS'signal in feature: bar ecc bin: 2 phase: 0.113 value: 26.500000 (RG_ratio) 1.000000 at 279.223800 '
+p1666
+aS'signal in feature: fix ecc bin: 2 phase: 0.113 value: 1.000000/0.462117 at 279.223848 '
+p1667
+aS'stimulus draw for phase 0.112718, at 279.233518'
+p1668
+aS'stimulus draw for phase 0.140783, at 279.766269'
+p1669
+a(lp1670
+I99
+aF3.9488179683685303
+aaS'trial 10 key: t at time: 280.282022953'
+p1671
+aS'trial 10 event t at 280.282032013'
+p1672
+aS'stimulus draw for phase 0.168860, at 280.300092'
+p1673
+aS'signal in feature: bar ecc bin: 1 phase: 0.197 value: 53.500000 (RG_ratio) 1.000000 at 280.823835 '
+p1674
+aS'signal in feature: fix ecc bin: 1 phase: 0.197 value: 1.000000/0.462117 at 280.823883 '
+p1675
+aS'stimulus draw for phase 0.196929, at 280.833516'
+p1676
+aS'stimulus draw for phase 0.224996, at 281.366496'
+p1677
+a(lp1678
+I99
+aF5.548851013183594
+aaS'trial 10 key: t at time: 281.882055998'
+p1679
+aS'trial 10 event t at 281.882065058'
+p1680
+aS'stimulus draw for phase 0.252633, at 281.895650'
+p1681
+aS'signal in feature: bar ecc bin: 1 phase: 0.281 value: 53.500000 (RG_ratio) 0.000000 at 282.423724 '
+p1682
+aS'signal in feature: fix ecc bin: 1 phase: 0.281 value: 1.000000/0.462117 at 282.423773 '
+p1683
+aS'stimulus draw for phase 0.281134, at 282.433348'
+p1684
+aS'stimulus draw for phase 0.309206, at 282.966314'
+p1685
+a(lp1686
+I99
+aF7.148803949356079
+aaS'trial 10 key: t at time: 283.482010126'
+p1687
+aS'trial 10 event t at 283.482018948'
+p1688
+aS'stimulus draw for phase 0.337279, at 283.500049'
+p1689
+aS'signal in feature: bar ecc bin: 0 phase: 0.365 value: 32.875000 (RG_ratio) 1.000000 at 284.023690 '
+p1690
+aS'signal in feature: fix ecc bin: 0 phase: 0.365 value: 1.000000/0.462117 at 284.023737 '
+p1691
+aS'stimulus draw for phase 0.365344, at 284.033328'
+p1692
+aS'stimulus draw for phase 0.393418, at 284.567637'
+p1693
+a(lp1694
+I99
+aF8.748829126358032
+aaS'trial 10 key: t at time: 285.082034111'
+p1695
+aS'trial 10 event t at 285.082044125'
+p1696
+aS'stimulus draw for phase 0.421485, at 285.099966'
+p1697
+aS'signal in feature: bar ecc bin: 0 phase: 0.450 value: 32.875000 (RG_ratio) 1.000000 at 285.623766 '
+p1698
+aS'signal in feature: fix ecc bin: 0 phase: 0.450 value: 1.000000/0.462117 at 285.623814 '
+p1699
+aS'stimulus draw for phase 0.449558, at 285.633408'
+p1700
+aS'stimulus draw for phase 0.477629, at 286.166455'
+p1701
+a(lp1702
+I99
+aF10.34877896308899
+aaS'trial 10 key: t at time: 286.681983948'
+p1703
+aS'trial 10 event t at 286.681993008'
+p1704
+aS'stimulus draw for phase 0.505694, at 286.700001'
+p1705
+aS'signal in feature: bar ecc bin: 0 phase: 0.534 value: 32.875000 (RG_ratio) 1.000000 at 287.223641 '
+p1706
+aS'signal in feature: fix ecc bin: 0 phase: 0.534 value: 1.000000/0.462117 at 287.223690 '
+p1707
+aS'stimulus draw for phase 0.533763, at 287.236098'
+p1708
+aS'stimulus draw for phase 0.561837, at 287.766454'
+p1709
+a(lp1710
+I99
+aF11.948673009872437
+aaS'trial 10 key: t at time: 288.281877995'
+p1711
+aS'trial 10 event t at 288.281888008'
+p1712
+aS'stimulus draw for phase 0.589904, at 288.299919'
+p1713
+aS'signal in feature: bar ecc bin: 0 phase: 0.618 value: 32.875000 (RG_ratio) 0.000000 at 288.823725 '
+p1714
+aS'signal in feature: fix ecc bin: 0 phase: 0.618 value: 1.000000/0.462117 at 288.823776 '
+p1715
+aS'stimulus draw for phase 0.617976, at 288.835961'
+p1716
+aS'stimulus draw for phase 0.646051, at 289.366482'
+p1717
+a(lp1718
+I99
+aF13.54868197441101
+aaS'trial 10 key: t at time: 289.881886959'
+p1719
+aS'trial 10 event t at 289.881896019'
+p1720
+aS'stimulus draw for phase 0.674118, at 289.899892'
+p1721
+aS'signal in feature: bar ecc bin: 1 phase: 0.702 value: 53.500000 (RG_ratio) 1.000000 at 290.423781 '
+p1722
+aS'signal in feature: fix ecc bin: 1 phase: 0.702 value: 1.000000/0.462117 at 290.423829 '
+p1723
+aS'stimulus draw for phase 0.702190, at 290.436209'
+p1724
+aS'stimulus draw for phase 0.730262, at 290.966348'
+p1725
+a(lp1726
+I99
+aF15.143180131912231
+aaS'trial 10 key: t at time: 291.476385117'
+p1727
+aS'trial 10 event t at 291.47639513'
+p1728
+aS'stimulus draw for phase 0.758331, at 291.500066'
+p1729
+aS'signal in feature: bar ecc bin: 1 phase: 0.786 value: 53.500000 (RG_ratio) 0.000000 at 292.023669 '
+p1730
+aS'signal in feature: fix ecc bin: 1 phase: 0.786 value: 1.000000/0.462117 at 292.023717 '
+p1731
+aS'stimulus draw for phase 0.786395, at 292.033436'
+p1732
+aS'stimulus draw for phase 0.814469, at 292.566321'
+p1733
+a(lp1734
+I99
+aF16.743200063705444
+aaS'trial 10 key: t at time: 293.076406002'
+p1735
+aS'trial 10 event t at 293.076416016'
+p1736
+aS'stimulus draw for phase 0.842539, at 293.100167'
+p1737
+aS'signal in feature: bar ecc bin: 2 phase: 0.871 value: 26.500000 (RG_ratio) 0.000000 at 293.623710 '
+p1738
+aS'signal in feature: fix ecc bin: 2 phase: 0.871 value: 1.000000/0.462117 at 293.623760 '
+p1739
+aS'stimulus draw for phase 0.870607, at 293.633355'
+p1740
+aS'stimulus draw for phase 0.898680, at 294.166285'
+p1741
+a(lp1742
+I99
+aF18.343281030654907
+aaS'trial 10 key: t at time: 294.676486015'
+p1743
+aS'trial 10 event t at 294.676496029'
+p1744
+aS'stimulus draw for phase 0.926748, at 294.700130'
+p1745
+aS'signal in feature: bar ecc bin: 2 phase: 0.955 value: 26.500000 (RG_ratio) 1.000000 at 295.223739 '
+p1746
+aS'signal in feature: fix ecc bin: 2 phase: 0.955 value: 1.000000/0.462117 at 295.223788 '
+p1747
+aS'stimulus draw for phase 0.954820, at 295.233383'
+p1748
+aS'stimulus draw for phase 0.982891, at 295.766273'
+p1749
+aS'trial 10 phase 3 started at 296.090027094'
+p1750
+aas.

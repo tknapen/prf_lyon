@@ -1,0 +1,98 @@
+$Id: mri_segreg.c,v 1.113 2016/05/10 03:23:20 greve Exp $
+setenv SUBJECTS_DIR /Users/knapen/disks/ae_S/2018/visual/seq_test/prf_lyon/derivatives/freesurfer
+cd /Users/knapen
+mri_segreg --mov /Users/knapen/Desktop/prf_lyon/data/sub-01/func/tmp.bbregister.91964/template.nii --init-reg /Users/knapen/Desktop/prf_lyon/data/sub-01/func/tmp.bbregister.91964/bbr.pass1.dat --out-reg /Users/knapen/Desktop/prf_lyon/data/sub-01/func/register.dat --interp trilinear --wm-proj-abs 2 --tol 1e-8 --tol1d 1e-3 --c0 0 --mincost /Users/knapen/Desktop/prf_lyon/data/sub-01/func/register.dat.mincost --dof 6 --nmax 36 --param /Users/knapen/Desktop/prf_lyon/data/sub-01/func/register.dat.param --surf white --brute -0.1 0.1 0.1 --cur-reg /Users/knapen/Desktop/prf_lyon/data/sub-01/func/tmp.bbregister.91964/reg.curopt.dat --gm-proj-frac 0.5 --nsub 1 --gm-gt-wm 0.5 
+sysname  Darwin
+hostname Tomass-MacBook-Pro.local
+machine  x86_64
+user     knapen
+movvol /Users/knapen/Desktop/prf_lyon/data/sub-01/func/tmp.bbregister.91964/template.nii
+regfile /Users/knapen/Desktop/prf_lyon/data/sub-01/func/tmp.bbregister.91964/bbr.pass1.dat
+subject sub-01
+dof 6
+outregfile /Users/knapen/Desktop/prf_lyon/data/sub-01/func/register.dat
+UseMask 0
+UseLH 1
+UseRH 1
+nsubsamp 1
+PenaltySign  -1
+PenaltySlope 0.500000
+PenaltyCenter 0.000000
+surfname white
+GMProjFrac 0.500000
+WMProjAbs 2.000000
+lhcostfile (null)
+rhcostfile (null)
+interp  trilinear (1)
+frame  0
+TolPowell 0.000000
+nMaxItersPowell 36
+n1dmin  3
+Profile   0
+Gdiag_no  -1
+AddNoise  0 (0)
+SynthSeed 1553219555
+TransRandMax 0.000000
+RotRandMax 0.000000
+Translations 0.000000 0.000000 0.000000
+Rotations   0.000000 0.000000 0.000000
+Input reg
+-1.00000   0.00071   0.00083   2.66996;
+ 0.00082  -0.00414   0.99999  -36.24883;
+-0.00071  -0.99999  -0.00414  -15.57749;
+ 0.00000   0.00000   0.00000   1.00000;
+
+Initial costs ----------------
+Number of surface hits 216912
+WM  Intensity0 29133.3808 +/- 4781.1024
+Ctx Intensity0 31130.0291 +/- 5929.1211
+Pct Contrast0      5.6138 +/-  17.4617
+Cost   0.3714
+RelCost   0.3593
+
+Brute force preopt -0.1 0.1 0.1, n = 729
+     0  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000  -0.1000      0.3599   0.3599  0.0
+     3  -0.1000  -0.1000  -0.1000  -0.1000   0.0000  -0.1000      0.3599   0.3599  0.0
+     9  -0.1000  -0.1000  -0.1000   0.0000  -0.1000  -0.1000      0.3581   0.3581  0.0
+    18  -0.1000  -0.1000  -0.1000   0.1000  -0.1000  -0.1000      0.3572   0.3572  0.0
+    99  -0.1000   0.0000  -0.1000   0.1000  -0.1000  -0.1000      0.3571   0.3571  0.0
+   252   0.0000  -0.1000  -0.1000   0.0000  -0.1000  -0.1000      0.3562   0.3562  0.0
+   261   0.0000  -0.1000  -0.1000   0.1000  -0.1000  -0.1000      0.3558   0.3558  0.0
+   364   0.0000   0.0000   0.0000   0.0000   0.0000   0.0000      0.3555   0.3555  0.0
+   609   0.1000   0.0000   0.0000   0.0000   0.1000  -0.1000      0.3553   0.3553  0.0
+
+Final costs ----------------
+Number of surface hits 216912
+WM  Intensity0 29136.7001 +/- 4771.7690
+Ctx Intensity0 31127.1469 +/- 5918.6894
+Pct Contrast0      5.5930 +/-  17.4433
+Cost   0.3685
+RelCost   0.3593
+Number of iterations     5
+Min cost was 0.368485
+RelMinCost   0.3563
+Number of FunctionCalls   361
+OptimizationTime 20.716000 sec
+Parameters at optimum (transmm, rotdeg)
+ 0.13355 -0.01979  0.01947  0.15177  0.07283  0.02603 
+Number of surface hits 216912
+WM  Intensity 29136.7001 +/- 4771.7690
+Ctx Intensity 31127.1469 +/- 5918.6894
+Pct Contrast      5.5930 +/-  17.4433
+Cost at optimum   0.3685
+RelCostOptimum   0.3563
+nhits= 216912 wmmn=29136.7001 wmstd=4771.7690 constd=   17.4433 ctxmn=31127.1469 ctxstd=5918.6894 conmn =   5.5930 costmn =   0.3685 
+#C#   0.134  -0.020   0.019  0.152  0.073  0.026 0.000000 0.000000 0.368485 29136.700073 31127.146873 5.593001 0.000000 0.500000     1 0
+Reg at min cost was 
+-1.00000  -0.00056   0.00037   2.80003;
+ 0.00037  -0.00149   1.00000  -36.22601;
+ 0.00056  -1.00000  -0.00149  -15.65736;
+ 0.00000   0.00000   0.00000   1.00000;
+
+Original Reg - Optimal Reg
+ 0.00000   0.00127   0.00046  -0.13007;
+ 0.00045  -0.00265  -0.00001  -0.02282;
+-0.00127   0.00001  -0.00265   0.07988;
+ 0.00000   0.00000   0.00000   0.00000;
+
+Surface-RMS-Diff-mm 0.190914 0.054016 0.336621

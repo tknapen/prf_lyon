@@ -1,0 +1,22 @@
+{
+    "TR": 1.6,
+    "screen_distance" : 135,
+    "screen_width" : 70,
+    "n_timepoints_per_run" : 167,
+    "rsq_threshold": 0.10,
+    "cov_threshold": 0.30,
+    "sg_filt_window_length": 211,
+    "sg_filt_polyorder": 3,
+    "sg_filt_deriv": 0,
+    "grid_steps": 20,
+    "fit_model": "gauss_sg",
+    "min_eccen": 0.25, 
+    "max_eccen": 10, 
+    "min_size": 0.5,
+    "max_size": 10,
+    "min_n": 0.05,
+    "max_n": 1.1
+}
+
+
+

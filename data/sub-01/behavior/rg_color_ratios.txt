@@ -1,0 +1,2 @@
+Mean RG/BY ratio: 1.13
+Stdev RG/BY ratio: 0.14

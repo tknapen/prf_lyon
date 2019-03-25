@@ -33,7 +33,7 @@ class CompressiveSpatialSummationModel(PopulationModel):
     
     def __init__(self, stimulus, hrf_model, cached_model_path=None, nuisance=None):
                 
-        PopulationModel.__init__(self, stimulus, hrf_model, cached_model_path, nuisance)
+        PopulationModel.__init__(self, stimulus, hrf_model, nuisance)
 
     # main method for deriving model time-series
     def generate_prediction(self, x, y, sigma, n, beta, baseline):
@@ -79,7 +79,7 @@ class CompressiveSpatialSummationModelFiltered(PopulationModel):
     
     def __init__(self, stimulus, hrf_model, cached_model_path=None, nuisance=None, sg_filter_window_length=120, sg_filter_polyorder=3, sg_filter_deriv = 0, tr=1.5):
                 
-        PopulationModel.__init__(self, stimulus, hrf_model, cached_model_path, nuisance)
+        PopulationModel.__init__(self, stimulus, hrf_model, nuisance)
 
         # sg filter
         self.sg_filter_window = np.int(sg_filter_window_length / tr)
@@ -144,7 +144,7 @@ class GaussianModel(PopulationModel):
     
     def __init__(self, stimulus, hrf_model, cached_model_path=None, nuisance=None):
                 
-        PopulationModel.__init__(self, stimulus, hrf_model, cached_model_path, nuisance)
+        PopulationModel.__init__(self, stimulus, hrf_model, nuisance)
 
     # main method for deriving model time-series
     def generate_prediction(self, x, y, sigma, beta, baseline):
@@ -187,7 +187,7 @@ class GaussianModelFiltered(PopulationModel):
     
     def __init__(self, stimulus, hrf_model, cached_model_path=None, nuisance=None, sg_filter_window_length=120, sg_filter_polyorder=3, sg_filter_deriv = 0, tr=1.5):
                 
-        PopulationModel.__init__(self, stimulus, hrf_model, cached_model_path, nuisance)
+        PopulationModel.__init__(self, stimulus, hrf_model, nuisance)
 
         # sg filter
         self.sg_filter_window = np.int(sg_filter_window_length / tr)
